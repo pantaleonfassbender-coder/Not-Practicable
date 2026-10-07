@@ -1,4 +1,55 @@
 {
  "lede": "Where the sources speak about the same thing, their voices stand side by side.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "practicable",
+   "titel": "Practicable, or not",
+   "frage": "Could a canal be cut across Florida?",
+   "note": "In January 1826, before any survey, a Senate committee thought the work “not only practicable, but much more easily accomplished” than supposed. Three years later the engineers sent to survey it found a ship channel “not practicable”, and a canal for boats possible.",
+   "voices": [
+    {
+     "text": "ridge",
+     "sec": "senate",
+     "n": [
+      1
+     ],
+     "wer": "Senate committee, 1826"
+    },
+    {
+     "text": "ridge",
+     "sec": "board",
+     "n": [
+      3
+     ],
+     "wer": "Bernard and Poussin, 1829"
+    }
+   ]
+  },
+  {
+   "id": "pay",
+   "titel": "Must it pay?",
+   "frage": "Should a canal across Florida earn its cost?",
+   "note": "Gillmore in 1880 saw “as little need” to fix a national canal's money-earning value as a harbour's, and then showed that it would need four times the traffic of the Florida Straits to pay five per cent. Stone in 1883 promised a cheaper canal and a quick return to a company's shareholders; a year later the company was gone.",
+   "voices": [
+    {
+     "text": "ridge",
+     "sec": "company",
+     "n": [
+      2,
+      3
+     ],
+     "wer": "Q. A. Gillmore, 1880"
+    },
+    {
+     "text": "ridge",
+     "sec": "company",
+     "n": [
+      5,
+      7
+     ],
+     "wer": "C. P. Stone, 1883; The Pensacolian, 1884"
+    }
+   ]
+  }
+ ]
 }

@@ -5,7 +5,9 @@
 
 Quellen: "ia" = Seitenbild des Internet Archive mit Ausschnitt in Promille (x0, y0, x1, y1);
 "commons" = Datei auf Wikimedia Commons (2400 px; "commonsfull" in voller Größe); "ufdc" = Seitenbild (JPEG 2000) der University of Florida Digital Collections; "local" = Datei im Ordner ../quellen (etwa von Florida Memory,
-dessen Seiten keine automatischen Abrufe zulassen und die deshalb von Hand geladen werden).
+dessen Seiten keine automatischen Abrufe zulassen und die deshalb von Hand geladen werden); "pdf" = Seite eines
+lokalen PDF ("pfad::seite", 1-basiert, mit PyMuPDF bei 200 dpi gerendert), etwa Bände des Congressional Serial Set
+von govinfo.gov oder Ausgaben-PDFs der University of Florida.
 """
 import io
 import json
@@ -23,8 +25,22 @@ DEST = ROOT / "assets" / "plates"
 UA = {"User-Agent": "NotPracticableResearch/1.0 (pantaleonfassbender@gmail.com)"}
 IAP = "https://archive.org/download/{}/page/n{}.jpg"
 
+Q = "../quellen/"
+SER = Q + "federal/serialset/SERIALSET-"
+
 PLATES = {
     # filled module by module: id -> (kind, source, crop in per mille [, rotation])
+    # Modul 1: The ridge
+    "sdoc1826_report": ("pdf", SER + "00126_00_00-003-0021-0000.pdf::1", (40, 20, 960, 900)),
+    "board1829_summary": ("local", Q + "ridge/board1829_summary.png", None),   # S. 65 unten + S. 66 oben, zusammengesetzt
+    "board1829_ocklawaha": ("pdf", SER + "00219_00_00-083-0185-0000.pdf::44", (0, 40, 1000, 470)),
+    "pickell1832_ponds": ("pdf", SER + "00219_00_00-083-0185-0000.pdf::6", (40, 20, 980, 330)),
+    "smith1855_railroad": ("pdf", SER + "00756_00_00-014-0076-0000.pdf::2", (40, 290, 960, 640)),
+    "gillmore1880_map": ("pdf", SER + "01885_00_00-056-0154-0000.pdf::39", None),
+    "obl1883_subscribed": ("pdf", Q + "state/verify/AA00089092_00041.pdf::2", (50, 418, 205, 452)),
+    "ob1883_fixedfact": ("pdf", Q + "ridge/np/UF00048734_01281.pdf::3", (40, 225, 175, 520)),
+    "pens1884_bubble": ("pdf", Q + "ridge/np/AA00083042_00037.pdf::1", (293, 339, 413, 414)),
+    "oes1909_routes": ("pdf", Q + "state/verify/UF00075908_03173.pdf::1", (176, 478, 322, 650)),
 }
 
 
@@ -61,6 +77,11 @@ def main(ids):
                 print(pid, "fehlt noch:", path)
                 continue
             im = Image.open(path)
+        elif kind == "pdf":
+            import pymupdf
+            path, page = src.rsplit("::", 1)
+            pix = pymupdf.open(ROOT / path)[int(page) - 1].get_pixmap(dpi=200)
+            im = Image.open(io.BytesIO(pix.tobytes("png")))
         elif kind == "ufdc":
             b, v, f = src.split("/")
             im = Image.open(io.BytesIO(fetch("https://ufdcimages.uflib.ufl.edu/" + "/".join(b[i:i + 2] for i in range(0, 10, 2)) + f"/{v}/{f}")))

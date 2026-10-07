@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="rc-t rc-d" font-family="var(--serif)">
+<title id="rc-t">Would a ship canal pay? Gillmore's figures, 1880</title><desc id="rc-d">Millions of tons a year at a toll of 28 cents a ton: about 1,758,000 tons to pay the canal's running costs; about 2,600,000 tons passed through the Florida Straits in the last fiscal year; about 10,714,300 tons to pay running costs and 5 per cent on a construction cost of about $50,000,000.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Would a ship canal pay? Gillmore's figures, 1880</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Millions of tons a year, at a toll of 28 cents a ton. The labels link to the passage.</text>
+<a href="#/text/ridge/company/3"><text x="16" y="99" font-size="13" fill="var(--ink)" text-decoration="underline">Needed to pay running costs</text></a>
+<rect x="330" y="80" width="83" height="28" fill="var(--ink2)"/>
+<text x="419" y="99" font-size="13" fill="var(--ink)">1.76 million t</text>
+<a href="#/text/ridge/company/3"><text x="16" y="147" font-size="13" fill="var(--ink)" text-decoration="underline">Passed the Florida Straits in a year</text></a>
+<rect x="330" y="128" width="123" height="28" fill="var(--river)"/>
+<text x="459" y="147" font-size="13" fill="var(--ink)">2.6 million t</text>
+<a href="#/text/ridge/company/3"><text x="16" y="195" font-size="13" fill="var(--ink)" text-decoration="underline">Needed to pay costs and 5 % on $50,000,000</text></a>
+<rect x="330" y="176" width="506" height="28" fill="var(--work)"/>
+<text x="842" y="195" font-size="13" fill="var(--ink)">10.7 million t</text>
+<text x="16" y="266" font-size="12" fill="var(--ink2)">Gillmore: “it is impossible to answer satisfactorily the question of the capacity of the enterprise to yield a moderate interest”.</text>
+<text x="16" y="284" font-size="12" fill="var(--ink2)">He thought a national canal need not pay; later reports measured every plan by its benefits and costs.</text>
+</svg>

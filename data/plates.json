@@ -1,5 +1,76 @@
 {
- "lede": "Public-domain maps, photographs and views, each with its source. Plates follow with the modules.",
- "credit": "",
- "plates": []
+ "lede": "Public-domain maps, documents and photographs, each with its source.",
+ "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov; newspaper pages from the Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "plates": [
+  {
+   "id": "sdoc1826_report",
+   "side": "capitol",
+   "titel": "In the Senate, 19 January 1826",
+   "caption": "The report of the Senate's Select Committee on Roads and Canals on the bill for a survey of a canal route between the Atlantic and the Gulf: the work “not only practicable, but much more easily accomplished than former estimates and opinions have supposed.”",
+   "source": "Senate Document 21, 19th Congress, 1st Session, p. 1. U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "board1829_summary",
+   "side": "survey",
+   "titel": "“Not practicable”, 1829",
+   "caption": "The summary of Bernard and Poussin's report of 19 February 1829, from the foot of p. 65 to the head of p. 66, set together: the ridge of the peninsula 150 feet high on average, a ship channel “not practicable.”",
+   "source": "House Document 8, 23rd Congress, 2nd Session, pp. 65–66. U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "board1829_ocklawaha",
+   "side": "river",
+   "titel": "The Ocklawaha dismissed, 1829",
+   "caption": "The engineers' line from Tampa Bay past the “old Indian town O-ke-hum-ky” to the Ocklawaha: the ridge only 87 feet high there, but “the want of water precludes the practicability” of a canal.",
+   "source": "House Document 185, 22nd Congress, 1st Session, p. 44. U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "pickell1832_ponds",
+   "side": "water",
+   "titel": "Ponds on the summit, 1832",
+   "caption": "Lieutenant Pickell's count of the water in the ponds near the summit: an excess of 45,883,438 cubic yards over what a canal for boats would need.",
+   "source": "House Document 185, 22nd Congress, 1st Session, p. 6. U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "smith1855_railroad",
+   "side": "survey",
+   "titel": "A railroad survey, 1853–1855",
+   "caption": "The instruction of November 1853 allowing the officer of the canal survey to examine a railroad as well, and the opening of his report on a line from Fernandina to Cedar Key.",
+   "source": "Senate Executive Document 76, 33rd Congress, 2nd Session, p. 2. U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "gillmore1880_map",
+   "side": "survey",
+   "titel": "A ship canal from the St. Marys, 1879",
+   "caption": "Map of the country embraced in the preliminary survey for a ship canal from the St. Marys River to the Gulf of Mexico, made in 1879 under Brevet Major General Q. A. Gillmore, with the profile of the canal across the ridge below.",
+   "source": "Senate Executive Document 154, 46th Congress, 2nd Session (1880), folding map. U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "obl1883_subscribed",
+   "side": "land",
+   "titel": "Twenty-six million dollars, 1883",
+   "caption": "“Twenty-six million dollars has been subscribed to the capital stock of the Florida Ship Canal, and work will commence at once.”",
+   "source": "Ocala Banner-Lacon, 26 May 1883, p. 2. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "ob1883_fixedfact",
+   "side": "land",
+   "titel": "“A fixed fact”, 1883",
+   "caption": "The directors of the Florida Ship Canal and Transit Company adopt their chief engineer's report: a tidewater ship canal for $46,000,000.",
+   "source": "Ocala Banner, 1 September 1883, p. 3, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "pens1884_bubble",
+   "side": "work",
+   "titel": "“A soap bubble”, 1884",
+   "caption": "“… has gone up in a soap bubble and bursted. The employes of the company are entering suit against the directors for unpaid salaries.”",
+   "source": "The Pensacolian, 23 August 1884, p. 1. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "oes1909_routes",
+   "side": "survey",
+   "titel": "Five routes, 1909",
+   "caption": "A board of Army engineers at Savannah proposes to survey five routes across northern Florida, a thousand miles in all.",
+   "source": "Ocala Evening Star, 21 May 1909, p. 1. Florida Digital Newspaper Library, University of Florida; public domain."
+  }
+ ]
 }

@@ -1,13 +1,16 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "ridge",
    "side": "survey",
    "kurz": "1 · The ridge",
-   "warum": "In 1826 a Senate committee thought a canal across Florida “not only practicable, but much more easily accomplished” than supposed; in 1829 the Army's engineers found the ridge of the peninsula a hundred and fifty feet high and a ship channel “not practicable”. In 1880 a new survey put a ship canal at about fifty million dollars.",
-   "quelle": "Senate Document 21, 19th Congress (1826); report of Bernard and Poussin, 1829, in House Document 8, 23rd Congress; Gillmore's report, Senate Executive Document 154, 46th Congress (1880); Florida newspapers on the canal companies of 1872 and 1883."
-  },
+   "warum": "In 1826 Florida's delegate wanted a canal against the reefs, for settlers and for war, and a Senate committee thought it “not only practicable”. In 1829 the Army's engineers found the ridge 150 feet high and a ship channel “not practicable”. A railroad crossed instead; a canal company of 1883 went “up in a soap bubble”.",
+   "quelle": "Senate and House documents of 1826, 1829, 1832, 1855 and 1880; Ocala Banner 1883; The Pensacolian 1884; Ocala Evening Star 1909.",
+   "datei": "ridge",
+   "zk": "Territory · Ridge · Water · Railroad · Company · Routes"
+  }
+ ],
+ "planned": [
   {
    "id": "river",
    "side": "river",
@@ -121,6 +124,20 @@
    "kurz": "A death reported in 1936",
    "warum": "A news agency report of March 1936, found only in Spanish translation, tells of an unemployed mason found nailed to a cross near the canal camp, linked by the police to labour troubles on the canal. What happened, who did it and how it ended is not documented in the sources found, and it is not told here beyond that.",
    "quelle": "—"
+  },
+  {
+   "id": "seminole",
+   "side": "land",
+   "kurz": "The people of the interior",
+   "warum": "The canal surveys of 1826–1832 pass over the Seminole and other people who lived in the interior of the peninsula; the report of 1829 names an “old Indian town” only as a landmark. Their history in the canal country is not covered by any source read so far; it is named here so that the apparatus does not begin as if the land had been empty.",
+   "quelle": "To be found."
+  },
+  {
+   "id": "company1883",
+   "side": "land",
+   "kurz": "The canal companies of 1872 and 1883",
+   "warum": "The charters reported in the press for a Florida Ship Canal Company (1872) and for the Florida Ship Canal and Transit Company (1883), the company's own reports and the suits of its employees have not yet been read; only newspaper notices are printed here.",
+   "quelle": "Laws of Florida 1872 and 1883; Tallahassee Sentinel 1872; Florida Times-Union 1883."
   }
  ]
 }

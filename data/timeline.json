@@ -1,19 +1,45 @@
 {
- "lede": "Stations read against the page images of their sources only; each names its source. Links into the modules follow as the modules are printed.",
+ "lede": "Stations read against the page images of their sources only; each names its source and, where printed, links to its passage.",
  "stations": [
   {
    "d": "19 January 1826",
    "side": "survey",
    "titel": "A Senate committee for a canal",
    "text": "Reporting on a bill to survey a canal route between the Atlantic and the Gulf, a Senate committee thinks the work “not only practicable, but much more easily accomplished than former estimates and opinions have supposed.”",
-   "quelle": "Senate Document 21, 19th Congress, 1st Session, p. 1."
+   "quelle": "Senate Document 21, 19th Congress, 1st Session, p. 1.",
+   "cite": "#/text/ridge/senate/1",
+   "citeLabel": "The ridge, 1826 [1]",
+   "plate": "sdoc1826_report"
   },
   {
    "d": "19 February 1829",
    "side": "survey",
    "titel": "“Not practicable”",
    "text": "General Simon Bernard and Captain William Tell Poussin report that the ridge of the peninsula has a mean elevation of one hundred and fifty feet above the ocean; a ship channel through it “is not practicable.” They propose a boat canal instead.",
-   "quelle": "Report of the Board of Internal Improvement, reprinted in House Document 8, 23rd Congress, pp. 65–66."
+   "quelle": "Report of the Board of Internal Improvement, reprinted in House Document 8, 23rd Congress, pp. 65–66.",
+   "cite": "#/text/ridge/board/3",
+   "citeLabel": "The ridge, 1829 [3]",
+   "plate": "board1829_summary"
+  },
+  {
+   "d": "6 March 1832",
+   "side": "water",
+   "titel": "Water for a canal for boats",
+   "text": "Lieutenant John Pickell reports that the ponds near the summit hold 45,883,438 cubic yards more water than a canal for boats would need. In one of his shafts he strikes an underground stream.",
+   "cite": "#/text/ridge/water/3",
+   "citeLabel": "The ridge, 1832 [3]",
+   "plate": "pickell1832_ponds",
+   "quelle": "House Document 185, 22nd Congress, 1st Session, pp. 3, 6."
+  },
+  {
+   "d": "2 March 1855",
+   "side": "survey",
+   "titel": "A railroad instead",
+   "text": "The officer of a new canal survey reports on a railroad from Fernandina to Cedar Key: the country has “no mountains or ridges” a railroad could not cross.",
+   "cite": "#/text/ridge/rails/2",
+   "citeLabel": "The ridge, 1855 [2]",
+   "plate": "smith1855_railroad",
+   "quelle": "Senate Executive Document 76, 33rd Congress, 2nd Session, p. 2."
   },
   {
    "d": "1875",
@@ -27,7 +53,40 @@
    "side": "survey",
    "titel": "Fifty million dollars",
    "text": "A report by Lieutenant Colonel Quincy A. Gillmore puts a ship canal from the St. Marys River to the Gulf at about $50,000,000, against some 2,600,000 tons a year passing through the Florida Straits.",
-   "quelle": "Senate Executive Document 154, 46th Congress, p. 14."
+   "quelle": "Senate Executive Document 154, 46th Congress, p. 14.",
+   "cite": "#/text/ridge/company/3",
+   "citeLabel": "The ridge, 1880–1884 [3]",
+   "plate": "gillmore1880_map"
+  },
+  {
+   "d": "1 September 1883",
+   "side": "land",
+   "titel": "“A fixed fact”",
+   "text": "The directors of the Florida Ship Canal and Transit Company adopt their engineer's estimate of $46,000,000 for a tidewater ship canal.",
+   "cite": "#/text/ridge/company/5",
+   "citeLabel": "The ridge, 1883 [5]",
+   "plate": "ob1883_fixedfact",
+   "quelle": "Ocala Banner, 1 September 1883, p. 3."
+  },
+  {
+   "d": "23 August 1884",
+   "side": "work",
+   "titel": "“A soap bubble”",
+   "text": "The company has “gone up in a soap bubble and bursted”; its employees sue the directors for unpaid salaries.",
+   "cite": "#/text/ridge/company/7",
+   "citeLabel": "The ridge, 1884 [7]",
+   "plate": "pens1884_bubble",
+   "quelle": "The Pensacolian, 23 August 1884, p. 1."
+  },
+  {
+   "d": "21 May 1909",
+   "side": "survey",
+   "titel": "Five routes",
+   "text": "A board of Army engineers proposes to survey five routes across northern Florida, a thousand miles in all.",
+   "cite": "#/text/ridge/routes/1",
+   "citeLabel": "The ridge, 1909 [1]",
+   "plate": "oes1909_routes",
+   "quelle": "Ocala Evening Star, 21 May 1909, p. 1."
   },
   {
    "d": "27 May 1933",

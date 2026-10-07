@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="rh-t rh-d" font-family="var(--serif)">
+<title id="rh-t">How high is the ridge?</title><desc id="rh-d">Heights above the sea in feet, as the surveys found them: the mean height of the ridge of the peninsula 150 feet (Bernard and Poussin, 1829); the watershed on the canal company's line 143 feet (Stone, 1883); the ridge where Pickell's line crossed it 116.849 feet, and the bottom of the planned summit cut 116.4 feet (1829/1832); the divide near the Ocklawaha 87 feet, set aside in 1829 for want of water.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">How high is the ridge?</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Feet above the sea, as each survey reported it. Each label links to its passage.</text>
+<a href="#/text/ridge/board/3"><text x="16" y="91" font-size="13" fill="var(--ink)" text-decoration="underline">Ridge of the peninsula, mean (1829)</text></a>
+<rect x="300" y="72" width="488" height="28" fill="var(--survey)"/>
+<text x="794" y="91" font-size="13" fill="var(--ink)">150 ft</text>
+<a href="#/text/ridge/company/5"><text x="16" y="135" font-size="13" fill="var(--ink)" text-decoration="underline">Watershed on Stone's line (1883)</text></a>
+<rect x="300" y="116" width="465" height="28" fill="var(--land)"/>
+<text x="771" y="135" font-size="13" fill="var(--ink)">143 ft</text>
+<a href="#/text/ridge/water/4"><text x="16" y="179" font-size="13" fill="var(--ink)" text-decoration="underline">Ridge crossed on Pickell's line (1832)</text></a>
+<rect x="300" y="160" width="380" height="28" fill="var(--water)"/>
+<text x="686" y="179" font-size="13" fill="var(--ink)">116.849 ft</text>
+<a href="#/text/ridge/water/1"><text x="16" y="223" font-size="13" fill="var(--ink)" text-decoration="underline">Bottom of the summit cut planned (1829)</text></a>
+<rect x="300" y="204" width="378" height="28" fill="var(--water)"/>
+<text x="684" y="223" font-size="13" fill="var(--ink)">116.4 ft</text>
+<a href="#/text/ridge/board/2"><text x="16" y="267" font-size="13" fill="var(--ink)" text-decoration="underline">Divide near the Ocklawaha (1829)</text></a>
+<rect x="300" y="248" width="283" height="28" fill="var(--river)"/>
+<text x="589" y="267" font-size="13" fill="var(--ink)">87 ft</text>
+<text x="16" y="316" font-size="12" fill="var(--ink2)">The lowest crossing was the Ocklawaha divide; the engineers of 1829 dismissed it because no streams on the ridge could feed a canal there.</text>
+</svg>

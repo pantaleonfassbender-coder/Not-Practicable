@@ -2,7 +2,7 @@
 and empty data/compare.json and data/plates.json. Module builds (tools/build-<id>.py) later move
 modules from "planned" to "shipped" and add their stations, pairs and plates.
 
-    python tools/build-frame.py
+    python tools/build-frame.py      (once, before the first module)
 """
 import json
 from pathlib import Path
@@ -114,6 +114,10 @@ def dump(name, obj):
 
 
 if __name__ == "__main__":
+    import sys
+    cur = json.loads((DATA / "modules.json").read_text(encoding="utf-8")) if (DATA / "modules.json").exists() else {}
+    if cur.get("shipped") and "--force" not in sys.argv:
+        sys.exit("modules are already shipped; the frame would overwrite them (use --force only to start over)")
     dump("modules.json", {
         "shipped": [],
         "planned": [dict(id=i, side=s, kurz=k, warum=w, quelle=q) for i, s, k, w, q in PLANNED],
