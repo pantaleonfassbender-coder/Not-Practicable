@@ -35,16 +35,18 @@
    "quelle": "Federal Writers' Project, Marion County (1936); Florida State Board of Health 1935; Documentary History of the Florida Canal (1936); House hearings 1937; Citrus County Chronicle, Madison Enterprise-Recorder, Sanford Herald 1935–36.",
    "datei": "camp",
    "zk": "Start · Camp · Work · Stop"
-  }
- ],
- "planned": [
+  },
   {
    "id": "aquifer",
    "side": "water",
    "kurz": "5 · The water under Florida",
-   "warum": "The Geological Survey saw “no reasonable doubt” of serious harm to the underground water of the Ocala limestone; Sanford and Winter Park telegraphed their fear. The Senate refused further money in 1936 (34 to 39) and the bill to finish the canal in 1939 (36 to 45). At Silver Springs the canal was buried in a mock funeral.",
-   "quelle": "Congressional Record, 17 March 1936 and 17 May 1939; House Document 194, 75th Congress (1937); House hearings 1937; Bradford County Telegraph, 7 August 1936."
-  },
+   "warum": "The Geological Survey saw “no reasonable doubt” of harm to the ground water; the Army's experts saw it local. South Florida spoke through Miami's newspaper, chamber and bank; the Senate refused money in 1936 (34 to 39) and the canal in 1939 (36 to 45). The Army's own board found the canal unjustified; its chief recommended it as relief.",
+   "quelle": "Congressional Record 1936 and 1939; House Document 194, 75th Congress (1937); House hearings 1937; Bradford County Telegraph 1936.",
+   "datei": "aquifer",
+   "zk": "Warning · Senate · Funeral · Board · 1939"
+  }
+ ],
+ "planned": [
   {
    "id": "war",
    "side": "capitol",
@@ -107,7 +109,7 @@
    "id": "sdoc147",
    "side": "water",
    "kurz": "The groundwater board of 1935",
-   "warum": "The report of the board of experts on groundwater (December 1935, Senate Document 147, 74th Congress) is cited in the debates but not yet found.",
+   "warum": "The report of the board of experts on ground water (18 December 1935; Boesch, Paige, Carey, Burwell, Pirnie), printed as Senate Document 147, 74th Congress, is cited by Senator Fletcher and the Chief of Engineers but not yet found in a reachable scan. Its findings appear here only in their words.",
    "quelle": "—"
   },
   {
@@ -193,6 +195,20 @@
    "kurz": "Accidents on the works",
    "warum": "The death of John Matthews is the only accident of 1935–36 found so far. No count of injuries or deaths on the canal works has been found.",
    "quelle": "Corps of Engineers and WPA records; Florida State Board of Health."
+  },
+  {
+   "id": "june1936",
+   "side": "capitol",
+   "kurz": "The votes of June 1936",
+   "warum": "The final refusals of money in the House and Senate in June 1936, which stopped the work, are known here only from a newspaper report (module 4); the Congressional Record of those days has not yet been read.",
+   "quelle": "Congressional Record, June 1936."
+  },
+  {
+   "id": "sharp1935",
+   "side": "water",
+   "kurz": "Henry S. Sharp's findings (1935)",
+   "warum": "The Columbia geologist's articles in the Miami Daily News are known only from the editorial read into the Record; the newspaper of 1935 is not in the collections reached and its rights are unchecked.",
+   "quelle": "Miami Daily News, March 1935."
   }
  ]
 }

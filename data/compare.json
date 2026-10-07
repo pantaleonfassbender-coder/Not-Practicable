@@ -211,6 +211,63 @@
      "wer": "Associated Press, April 1936"
     }
    ]
+  },
+  {
+   "id": "groundwater",
+   "titel": "The water under the cut",
+   "frage": "Would a sea-level canal harm Florida's ground water?",
+   "note": "The Geological Survey in 1935: “no reasonable doubt” of serious harm in a wide zone. The Chief of Engineers in 1936: “will not contaminate”. His own board in 1937: certain draw-down near the canal, a dome of salt water, extent unknown, no harm to distant parts. The Chief in 1937: “I do not share the apprehension.”",
+   "voices": [
+    {
+     "text": "aquifer",
+     "sec": "warning",
+     "n": [
+      3
+     ],
+     "wer": "Geological Survey, 1935"
+    },
+    {
+     "text": "aquifer",
+     "sec": "board",
+     "n": [
+      2
+     ],
+     "wer": "Board of Engineers, 1937"
+    },
+    {
+     "text": "aquifer",
+     "sec": "board",
+     "n": [
+      3
+     ],
+     "wer": "Chief of Engineers, 1937"
+    }
+   ]
+  },
+  {
+   "id": "voice",
+   "titel": "Who speaks for Florida?",
+   "frage": "Whose Florida wanted the canal, and whose did not?",
+   "note": "A Miami banker spoke for “the people of Florida” and a chamber of commerce for south Florida's “small farmers”; the six counties on the route had voted for the land, but only their property owners could vote. Neither side counted those who had no voice in either.",
+   "voices": [
+    {
+     "text": "aquifer",
+     "sec": "senate",
+     "n": [
+      2,
+      3
+     ],
+     "wer": "Miami, read by Senator Vandenberg, 1936"
+    },
+    {
+     "text": "relief",
+     "sec": "bonds",
+     "n": [
+      2
+     ],
+     "wer": "Representative W. J. Sears, 1936"
+    }
+   ]
   }
  ]
 }

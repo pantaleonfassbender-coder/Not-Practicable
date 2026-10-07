@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="av-t av-d" font-family="var(--serif)">
+<title id="av-t">Two votes and two estimates, 1936–1939</title><desc id="av-d">Senate, 17 March 1936: 34 for the canal money, 39 against. Senate, 17 May 1939: 36 for the canal bill, 45 against. 1937: the Board of Engineers put a sea-level ship canal at $263,838,000 and found it not justified; the Chief of Engineers put it at $197,921,000, with annual charges of $8,641,000 against benefits to shipping of $8,741,000.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Two votes and two estimates, 1936–1939</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Each label links to its passage.</text>
+<a href="#/text/aquifer/senate/5"><text x="16" y="98" font-size="13" fill="var(--ink)" text-decoration="underline">Senate, 17 March 1936</text></a>
+<rect x="200" y="80" width="258" height="12" fill="var(--land)"/><text x="464" y="91" font-size="12" fill="var(--ink)">34 for</text>
+<rect x="200" y="95" width="296" height="12" fill="var(--work)"/><text x="502" y="106" font-size="12" fill="var(--ink)">39 against</text>
+<a href="#/text/aquifer/last/2"><text x="16" y="148" font-size="13" fill="var(--ink)" text-decoration="underline">Senate, 17 May 1939</text></a>
+<rect x="200" y="130" width="274" height="12" fill="var(--land)"/><text x="480" y="141" font-size="12" fill="var(--ink)">36 for</text>
+<rect x="200" y="145" width="342" height="12" fill="var(--work)"/><text x="548" y="156" font-size="12" fill="var(--ink)">45 against</text>
+<text x="16" y="200" font-size="14" font-weight="bold" fill="var(--ink)">The Army against itself, 1937 (millions of dollars)</text>
+<a href="#/text/aquifer/board/1"><text x="16" y="232" font-size="12.5" fill="var(--ink)" text-decoration="underline">Board of Engineers: cost</text></a>
+<rect x="200" y="218" width="547" height="18" fill="var(--work)"/><text x="753" y="232" font-size="12" fill="var(--ink)">263.8</text>
+<a href="#/text/aquifer/board/4"><text x="16" y="260" font-size="12.5" fill="var(--ink)" text-decoration="underline">Chief of Engineers: cost</text></a>
+<rect x="200" y="246" width="411" height="18" fill="var(--survey)"/><text x="617" y="260" font-size="12" fill="var(--ink)">197.9</text>
+<a href="#/text/aquifer/board/4"><text x="16" y="290" font-size="12.5" fill="var(--ink)" text-decoration="underline">Chief, a year: charges 8.641 · benefits 8.741</text></a>
+<text x="360" y="290" font-size="12" fill="var(--ink2)">a margin of $100,000 a year, before the wages are counted as relief</text>
+</svg>

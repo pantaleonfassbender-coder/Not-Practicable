@@ -72,6 +72,15 @@ PLATES = {
     "sh1936_matthews": ("local", Q + "people/img/sh_19360403_matthews.png", (192, 0, 795, 1000)),
     "sh1936_gloomy": ("local", Q + "camp/sh1936_gloomy.png", (0, 220, 530, 860)),
     "sh1936_hendricks": ("local", Q + "state/verify/sh1936_hendricks.png", (80, 160, 1000, 880)),
+    # Modul 5: The water under Florida
+    "hd1937_profile": ("local", Q + "aquifer/hd194_profile.png", None),
+    "cr1936_buckman": ("ia", IAP.format("gpo-crecb-1936-pt-4-v-80-5", 19), (500, 0, 1000, 1000)),
+    "cr1936_miami": ("ia", IAP.format("gpo-crecb-1936-pt-4-v-80-5", 22), (500, 0, 1000, 1000)),
+    "cr1936_vote": ("ia", IAP.format("gpo-crecb-1936-pt-4-v-80-5", 23), (0, 0, 500, 1000)),
+    "bct1936_funeral": ("local", Q + "state/verify/bct1936.png", None),
+    "hd1937_route": ("local", Q + "aquifer/hd194_route.png", (10, 20, 990, 985)),
+    "h1937_telegrams": ("ufdc", "UF00018663/00001/00129.jp2", (60, 740, 960, 950)),
+    "cr1939_vote": ("local", Q + "aquifer/dli.ernet.78569_n1015.jpg", (500, 0, 1000, 520)),
 }
 
 

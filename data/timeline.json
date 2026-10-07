@@ -151,6 +151,16 @@
    "quelle": "Documentary History of the Florida Canal (1936), p. 123."
   },
   {
+   "d": "26 August 1935",
+   "side": "water",
+   "titel": "“No reasonable doubt”",
+   "text": "The Geological Survey warns, through the Interior Department, that a sea-level canal would seriously harm the ground water of the Ocala limestone in a wide zone.",
+   "cite": "#/text/aquifer/warning/3",
+   "citeLabel": "The water under Florida, 1935 [3]",
+   "plate": "cr1936_buckman",
+   "quelle": "Congressional Record, Senate, 17 March 1936, p. 3842."
+  },
+  {
    "d": "30 August 1935",
    "side": "capitol",
    "titel": "Five million dollars for relief",
@@ -195,7 +205,10 @@
    "side": "capitol",
    "titel": "34 to 39",
    "text": "The Senate rejects Senator Fletcher's amendment for further canal money, after Senator Vandenberg sets out the objections of the Public Works Administration and the Interior Department and the Geological Survey's warning on the groundwater.",
-   "quelle": "Congressional Record, Senate, 17 March 1936, pp. 3842, 3846."
+   "quelle": "Congressional Record, Senate, 17 March 1936, pp. 3842, 3846.",
+   "cite": "#/text/aquifer/senate/5",
+   "citeLabel": "The water under Florida, 1936 [5]",
+   "plate": "cr1936_vote"
   },
   {
    "d": "3 April 1936",
@@ -232,14 +245,30 @@
    "side": "water",
    "titel": "A funeral at Silver Springs",
    "text": "With the money gone, the canal is buried in a mock funeral at Silver Springs: “sired by Washington and damned by South Florida”.",
-   "quelle": "Bradford County Telegraph, 7 August 1936."
+   "quelle": "Bradford County Telegraph, 7 August 1936.",
+   "cite": "#/text/aquifer/funeral/1",
+   "citeLabel": "The water under Florida, 1936 [1]",
+   "plate": "bct1936_funeral"
+  },
+  {
+   "d": "24 February 1937",
+   "side": "survey",
+   "titel": "Not justified",
+   "text": "The Army's Board of Engineers for Rivers and Harbors finds a ship canal across Florida not economically justified, at $263,838,000; the Chief of Engineers overrules it in April and recommends it as relief and navigation.",
+   "cite": "#/text/aquifer/board/1",
+   "citeLabel": "The water under Florida, 1937 [1]",
+   "plate": "hd1937_route",
+   "quelle": "House Document 194, 75th Congress, 1st Session, pp. 4–6."
   },
   {
    "d": "17 May 1939",
    "side": "capitol",
    "titel": "36 to 45",
    "text": "The Senate defeats the bill to complete the ship canal, after first voting to name it for the late Senator Duncan Fletcher.",
-   "quelle": "Congressional Record, Senate, 17 May 1939, p. 5649."
+   "quelle": "Congressional Record, Senate, 17 May 1939, p. 5649.",
+   "cite": "#/text/aquifer/last/2",
+   "citeLabel": "The water under Florida, 1939 [2]",
+   "plate": "cr1939_vote"
   },
   {
    "d": "23 July 1942",
