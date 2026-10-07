@@ -1,0 +1,117 @@
+{
+ "lede": "Stations read against the page images of their sources only; each names its source. Links into the modules follow as the modules are printed.",
+ "stations": [
+  {
+   "d": "19 January 1826",
+   "side": "survey",
+   "titel": "A Senate committee for a canal",
+   "text": "Reporting on a bill to survey a canal route between the Atlantic and the Gulf, a Senate committee thinks the work “not only practicable, but much more easily accomplished than former estimates and opinions have supposed.”",
+   "quelle": "Senate Document 21, 19th Congress, 1st Session, p. 1."
+  },
+  {
+   "d": "19 February 1829",
+   "side": "survey",
+   "titel": "“Not practicable”",
+   "text": "General Simon Bernard and Captain William Tell Poussin report that the ridge of the peninsula has a mean elevation of one hundred and fifty feet above the ocean; a ship channel through it “is not practicable.” They propose a boat canal instead.",
+   "quelle": "Report of the Board of Internal Improvement, reprinted in House Document 8, 23rd Congress, pp. 65–66."
+  },
+  {
+   "d": "1875",
+   "side": "river",
+   "titel": "“The sweetest water-lane in the world”",
+   "text": "Sidney Lanier describes the Ocklawaha from the deck of a steamboat.",
+   "quelle": "Sidney Lanier, Florida: Its Scenery, Climate, and History (1875/76), p. 20."
+  },
+  {
+   "d": "22 April 1880",
+   "side": "survey",
+   "titel": "Fifty million dollars",
+   "text": "A report by Lieutenant Colonel Quincy A. Gillmore puts a ship canal from the St. Marys River to the Gulf at about $50,000,000, against some 2,600,000 tons a year passing through the Florida Straits.",
+   "quelle": "Senate Executive Document 154, 46th Congress, p. 14."
+  },
+  {
+   "d": "27 May 1933",
+   "side": "land",
+   "titel": "A memorial for work",
+   "text": "The Florida legislature asks Congress for the canal, which would “give employment to a vast amount of human labor”.",
+   "quelle": "Joint Memorial No. 11 (1933), in Documentary History of the Florida Canal (Senate Document 275, 74th Congress, 1936), p. 82."
+  },
+  {
+   "d": "19 September 1935",
+   "side": "work",
+   "titel": "The first blast",
+   "text": "The President sets off the first blast on the canal near Ocala “at 1 o'clock on the afternoon of September 19, 1935”. Construction under the Chief of Engineers had begun on 3 September.",
+   "quelle": "Documentary History of the Florida Canal (1936), pp. 156–157; Congressional Record, 17 March 1936, p. 3839."
+  },
+  {
+   "d": "17 March 1936",
+   "side": "capitol",
+   "titel": "34 to 39",
+   "text": "The Senate rejects Senator Fletcher's amendment for further canal money, after Senator Vandenberg sets out the objections of the Public Works Administration and the Interior Department and the Geological Survey's warning on the groundwater.",
+   "quelle": "Congressional Record, Senate, 17 March 1936, pp. 3842, 3846."
+  },
+  {
+   "d": "1 June 1936",
+   "side": "work",
+   "titel": "Ten miles, six thousand men",
+   "text": "The canal authority counts about ten miles of the central cut, 17,000,000 cubic yards moved, about $5,000,000 spent and about 6,000 men employed.",
+   "quelle": "Documentary History of the Florida Canal (1936), p. vi."
+  },
+  {
+   "d": "7 August 1936",
+   "side": "water",
+   "titel": "A funeral at Silver Springs",
+   "text": "With the money gone, the canal is buried in a mock funeral at Silver Springs: “sired by Washington and damned by South Florida”.",
+   "quelle": "Bradford County Telegraph, 7 August 1936."
+  },
+  {
+   "d": "17 May 1939",
+   "side": "capitol",
+   "titel": "36 to 45",
+   "text": "The Senate defeats the bill to complete the ship canal, after first voting to name it for the late Senator Duncan Fletcher.",
+   "quelle": "Congressional Record, Senate, 17 May 1939, p. 5649."
+  },
+  {
+   "d": "23 July 1942",
+   "side": "capitol",
+   "titel": "A barge canal for the war",
+   "text": "Congress authorizes “a high-level lock barge canal from the Saint Johns River across Florida to the Gulf of Mexico” and $93,000,000.",
+   "quelle": "Act of 23 July 1942, 56 Stat. 703."
+  },
+  {
+   "d": "27 February 1964",
+   "side": "capitol",
+   "titel": "Ground broken at Palatka",
+   "text": "President Johnson: “This new ribbon of water will enable barges to move across the Florida peninsula a few years from now”.",
+   "quelle": "Public Papers of the Presidents, Lyndon B. Johnson, 1963–64, Book I, no. 198, p. 315."
+  },
+  {
+   "d": "19 January 1971",
+   "side": "river",
+   "titel": "The halt",
+   "text": "President Nixon orders “a halt to further construction of the Cross Florida Barge Canal to prevent potentially serious environmental damages.” About $50 million of an estimated $180 million has been committed.",
+   "quelle": "Public Papers of the Presidents, Richard Nixon, 1971, no. 20, pp. 43–44."
+  },
+  {
+   "d": "23 May 1977",
+   "side": "capitol",
+   "titel": "“Ill-advised”",
+   "text": "President Carter asks Congress to deauthorize the canal and “put an end to the long controversy over this ill-advised project.”",
+   "quelle": "The President's Environmental Program, 1977, p. M-10."
+  },
+  {
+   "d": "28 June 1984",
+   "side": "capitol",
+   "titel": "204 to 201",
+   "text": "The House of Representatives votes, 204 to 201, not to deauthorize the canal, as a witness recalls at the hearing in Palatka a year later.",
+   "quelle": "House hearing, Cross-Florida Barge Canal, Palatka, 10 June 1985, p. 147."
+  },
+  {
+   "d": "28 November 1990",
+   "side": "land",
+   "titel": "The end, and a greenway",
+   "text": "Congress provides that the canal be deauthorized once Florida's Governor and Cabinet so resolve, and that a greenway corridor “not be less than 300 yards wide”.",
+   "quelle": "Public Law 101-640, § 402, 104 Stat. 4644–4645."
+  }
+ ]
+}

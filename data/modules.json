@@ -1,0 +1,126 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "ridge",
+   "side": "survey",
+   "kurz": "1 · The ridge",
+   "warum": "In 1826 a Senate committee thought a canal across Florida “not only practicable, but much more easily accomplished” than supposed; in 1829 the Army's engineers found the ridge of the peninsula a hundred and fifty feet high and a ship channel “not practicable”. In 1880 a new survey put a ship canal at about fifty million dollars.",
+   "quelle": "Senate Document 21, 19th Congress (1826); report of Bernard and Poussin, 1829, in House Document 8, 23rd Congress; Gillmore's report, Senate Executive Document 154, 46th Congress (1880); Florida newspapers on the canal companies of 1872 and 1883."
+  },
+  {
+   "id": "river",
+   "side": "river",
+   "kurz": "2 · The water-lane",
+   "warum": "Before the canal, the Ocklawaha was a steamboat river: a poet's “sweetest water-lane in the world” in 1875, a tourist route of the Hart line, and a channel for logs. What the river carried and who worked on it, from the travel books, timetables and the engineers' reports.",
+   "quelle": "Sidney Lanier, Florida (1875/76); Hart line timetable 1890; photographs of 1886 and 1902; House Document 514, 63rd Congress (1914)."
+  },
+  {
+   "id": "relief",
+   "side": "land",
+   "kurz": "3 · Work for the relief rolls",
+   "warum": "In 1933 the Florida legislature created a Ship Canal Authority and asked Washington for a canal that would “give employment to a vast amount of human labor”. The six counties of the canal district voted bonds to buy the right of way, in an election open only to property owners who had paid their poll tax.",
+   "quelle": "Documentary History of the Florida Canal (Ship Canal Authority, printed as Senate Document 275, 74th Congress, 1936); Congressional Record 1936; House hearings on H.R. 6150 (1937); Levy County Journal 1933."
+  },
+  {
+   "id": "camp",
+   "side": "work",
+   "kurz": "4 · Camp Roosevelt",
+   "warum": "In September 1935 the President set off the first blast from afar, and within months several thousand men, most of them from the relief rolls, were digging south of Ocala. The camps filled before their sanitation was ready; a Black worker, John Matthews, died when a truck of canal workers overturned in 1936.",
+   "quelle": "Florida State Board of Health, report for 1935; Federal Writers' Project, Marion County (1936); Senate Document 275 (1936); Citrus County Chronicle, Madison Enterprise-Recorder, Sanford Herald 1935–36."
+  },
+  {
+   "id": "aquifer",
+   "side": "water",
+   "kurz": "5 · The water under Florida",
+   "warum": "The Geological Survey saw “no reasonable doubt” of serious harm to the underground water of the Ocala limestone; Sanford and Winter Park telegraphed their fear. The Senate refused further money in 1936 (34 to 39) and the bill to finish the canal in 1939 (36 to 45). At Silver Springs the canal was buried in a mock funeral.",
+   "quelle": "Congressional Record, 17 March 1936 and 17 May 1939; House Document 194, 75th Congress (1937); House hearings 1937; Bradford County Telegraph, 7 August 1936."
+  },
+  {
+   "id": "war",
+   "side": "capitol",
+   "kurz": "6 · A canal for the war",
+   "warum": "With submarines sinking ships off the Atlantic coast, Congress was asked again in 1942. A first vote failed; a Miami paper had called it a “boondoggling bill”. On 23 July 1942 a high-level lock barge canal was authorized, at ninety-three million dollars, and then not built.",
+   "quelle": "Congressional Record, 1 June 1942; Act of 23 July 1942 (56 Stat. 703); House Report 2, 79th Congress (1945)."
+  },
+  {
+   "id": "rodman",
+   "side": "river",
+   "kurz": "7 · Rodman",
+   "warum": "In February 1964 President Johnson broke ground at Palatka. The dam at Rodman flooded thousands of acres of the Ocklawaha valley. Opponents carried the case to the courts and to Washington, and on 19 January 1971 President Nixon ordered the work halted.",
+   "quelle": "Public Papers of the Presidents 1964 and 1971; Florida Board of Conservation reports; congressional reports and hearings; federal court decisions 1971–1974."
+  },
+  {
+   "id": "undoing",
+   "side": "land",
+   "kurz": "8 · Undoing the canal",
+   "warum": "The counties had paid a canal tax from 1936 to 1971. A President called the project “ill-advised” in 1977; in 1984 the House kept it alive by 204 to 201; landowners sued for the return of their land. The act of 1990 ended it and set aside a corridor of at least 300 yards.",
+   "quelle": "The President's Environmental Program 1977; House hearing at Palatka, 10 June 1985; Laws of Florida 1979; Public Law 101-640 (1990)."
+  }
+ ],
+ "missing": [
+  {
+   "id": "segregation",
+   "side": "work",
+   "kurz": "Segregation at the camps",
+   "warum": "The sources found so far count canal workers as “White” and “Colored” in a health report, but do not say how camps and crews were divided. That needs the records of the WPA and the Corps of Engineers (National Archives, Record Groups 69 and 77) and the Ocala newspapers of 1935–36, which are not yet reachable here.",
+   "quelle": "—"
+  },
+  {
+   "id": "wages",
+   "side": "work",
+   "kurz": "Wages",
+   "warum": "No hourly rates of 1935–36 found yet; only payroll totals in the press and the statement that ninety per cent of the men came from the relief rolls.",
+   "quelle": "—"
+  },
+  {
+   "id": "families",
+   "side": "land",
+   "kurz": "The families on the route",
+   "warum": "The sources give acreages (of the right of way in 1936, of the Rodman pool, of lawsuits) but not the number or names of the families who lost homes. County land and court records would be needed.",
+   "quelle": "—"
+  },
+  {
+   "id": "archaeology",
+   "side": "river",
+   "kurz": "Sites under the Rodman pool",
+   "warum": "The state's list of salvage excavations for 1964–66 names no site on the canal route. That is a silence of the source, not proof that nothing was there or that nothing was lost.",
+   "quelle": "—"
+  },
+  {
+   "id": "hdoc109",
+   "side": "capitol",
+   "kurz": "The engineers' report of 1942",
+   "warum": "The Chief of Engineers' review of 12 June 1942 was withheld as a defence matter and printed in 1945 as House Document 109, 79th Congress. Not yet found in a reachable scan.",
+   "quelle": "—"
+  },
+  {
+   "id": "sdoc147",
+   "side": "water",
+   "kurz": "The groundwater board of 1935",
+   "warum": "The report of the board of experts on groundwater (December 1935, Senate Document 147, 74th Congress) is cited in the debates but not yet found.",
+   "quelle": "—"
+  },
+  {
+   "id": "fde1970",
+   "side": "river",
+   "kurz": "The opponents' report of 1970",
+   "warum": "The Florida Defenders of the Environment's report on the canal's environmental impact (1970) is not digitized here and its rights are unclear. It is named, not printed; the opponents speak in this apparatus through their testimony in federal hearings.",
+   "quelle": "—"
+  },
+  {
+   "id": "photos1964",
+   "side": "survey",
+   "kurz": "Photographs of 1964–71",
+   "warum": "No public-domain photographs of the barge canal works, the locks or the Rodman dam have been found yet in reachable federal collections.",
+   "quelle": "—"
+  },
+  {
+   "id": "timmerman",
+   "side": "work",
+   "kurz": "A death reported in 1936",
+   "warum": "A news agency report of March 1936, found only in Spanish translation, tells of an unemployed mason found nailed to a cross near the canal camp, linked by the police to labour troubles on the canal. What happened, who did it and how it ended is not documented in the sources found, and it is not told here beyond that.",
+   "quelle": "—"
+  }
+ ]
+}
