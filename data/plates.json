@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain maps, documents and photographs, each with its source.",
- "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov, and from the Internet Archive; newspaper pages from the Florida Digital Newspaper Library and congressional printings from the University of Florida Digital Collections; photographs and drawings of the Ocklawaha from the Library of Congress, the Metropolitan Museum of Art and the State Archives of Florida via Wikimedia Commons. All in the public domain or CC0.",
+ "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov, and from the Internet Archive; newspaper pages from the Florida Digital Newspaper Library and congressional printings from the University of Florida Digital Collections; photographs and drawings of the Ocklawaha from the Library of Congress, the Metropolitan Museum of Art and the State Archives of Florida via Wikimedia Commons. The report of the Florida State Board of Health from the Internet Archive; photographs of the works of 1935–36 from the Documentary History of the Florida Canal. All in the public domain or CC0, newspapers after 1930 with no renewal of copyright found.",
  "plates": [
   {
    "id": "sdoc1826_report",
@@ -176,6 +176,97 @@
    "titel": "Status of right of way acquisition, June 1936",
    "caption": "The Army engineers' map of the western part of the route, from Ocala, Camp Roosevelt and Santos past Dunnellon to the Gulf near Inglis and Yankeetown, with the land under option, in condemnation and still required: 21,633 of 81,492 acres in possession.",
    "source": "House Document 194, 75th Congress, 1st Session (1937), map sheet 1 (U.S. Engineer Office, Ocala, June 1936); U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
+  },
+  {
+   "id": "ccc1935_boom",
+   "side": "work",
+   "titel": "“Just like boom days”, September 1935",
+   "caption": "Ocala “buzzing with activity as hundreds of job hunters swarm over the town”; employment under the WPA through the National Re-employment Service.",
+   "source": "Citrus County Chronicle (Inverness), 12 September 1935, p. 4; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
+  },
+  {
+   "id": "mer1935_axe",
+   "side": "work",
+   "titel": "Axe and shovel, 14 September 1935",
+   "caption": "A hundred men break the first ground; “slightly more than 1750 men” at Camp Roosevelt, a mile and a half south of Ocala.",
+   "source": "Madison Enterprise-Recorder, 20 September 1935, p. 10; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
+  },
+  {
+   "id": "sbh1935_sanitation",
+   "side": "work",
+   "titel": "Camp Roosevelt and canal zone sanitation, 1935",
+   "caption": "The State Board of Health: the workers arrived “before adequate plans had been made for necessary sanitary facilities”.",
+   "source": "Florida State Board of Health, Thirty-sixth Annual Report (1935), p. 36; Internet Archive; public domain."
+  },
+  {
+   "id": "sbh1935_table",
+   "side": "work",
+   "titel": "Counted by colour, 1935",
+   "caption": "The foot of the public health nurses' table of corrections, white and colored: “Canal Workers Examination 56 3”.",
+   "source": "Florida State Board of Health, Thirty-sixth Annual Report (1935), p. 55, detail; Internet Archive; public domain."
+  },
+  {
+   "id": "sd1936_railway",
+   "side": "work",
+   "titel": "Industrial railway, loaded by dragline",
+   "caption": "“Industrial railway used in canal excavation, loaded by dragline.” Photograph of the works south of Ocala, 1935–36; photographer not named.",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), plate p. ii; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "sd1936_cut",
+   "side": "work",
+   "titel": "An earth cut, early stage",
+   "caption": "“Typical earth cut in preliminary stage.”",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), plate p. ii; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "sd1936_slopes",
+   "side": "work",
+   "titel": "Slopes, berm and spoil banks",
+   "caption": "“View of excavating work, showing slopes, berm, and spoil banks.”",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), plate p. iii; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "sd1936_bridge",
+   "side": "work",
+   "titel": "Dragline and bridge conveyor",
+   "caption": "“Dragline loading bridge conveyor.”",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), plate p. iii; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "sd1936_belt",
+   "side": "work",
+   "titel": "Belt conveyor on the canal",
+   "caption": "“Belt conveyor in operation on the canal.” The men along the conveyor are the only workers visible in the published photographs.",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), plate p. iv; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "sh1936_mules",
+   "side": "work",
+   "titel": "201 mules for sale, March 1936",
+   "caption": "Auction of 201 mules and harness used on the canal, at the mule barns of Camp No. 1, nine miles south of Ocala.",
+   "source": "Sanford Herald, 3 March 1936, p. 5, detail; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
+  },
+  {
+   "id": "sh1936_matthews",
+   "side": "work",
+   "titel": "John Matthews, April 1936",
+   "caption": "“One Killed, 20 Hurt in Crash of Truck on Canal at Ocala”: the Associated Press report of the death of John Matthews.",
+   "source": "Sanford Herald, 3 April 1936, p. 1; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
+  },
+  {
+   "id": "sh1936_gloomy",
+   "side": "capitol",
+   "titel": "Gloom in Ocala, June 1936",
+   "caption": "“Canal Defeat Gives Gloomy Air To Ocala”: work at Camp Roosevelt to end in July unless stopped sooner.",
+   "source": "Sanford Herald, 19 June 1936, p. 1, detail; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
+  },
+  {
+   "id": "sh1936_hendricks",
+   "side": "work",
+   "titel": "Five thousand left unemployed, July 1936",
+   "caption": "“Since work has stopped on the cross state canal about 5,000 men are left unemployed.”",
+   "source": "Sanford Herald, 8 July 1936, p. 2, detail; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
   }
  ]
 }

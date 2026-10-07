@@ -161,11 +161,24 @@
    "quelle": "Documentary History of the Florida Canal (1936), p. 155."
   },
   {
+   "d": "12 September 1935",
+   "side": "work",
+   "titel": "Hundreds of job hunters",
+   "text": "Ocala takes on a “boom-time aspect” as job hunters swarm over the town; hiring is to go through the National Re-employment Service.",
+   "cite": "#/text/camp/start/1",
+   "citeLabel": "Camp Roosevelt, 1935 [1]",
+   "plate": "ccc1935_boom",
+   "quelle": "Citrus County Chronicle, 12 September 1935, p. 4."
+  },
+  {
    "d": "19 September 1935",
    "side": "work",
    "titel": "The first blast",
    "text": "The President sets off the first blast on the canal near Ocala “at 1 o'clock on the afternoon of September 19, 1935”. Construction under the Chief of Engineers had begun on 3 September.",
-   "quelle": "Documentary History of the Florida Canal (1936), pp. 156–157; Congressional Record, 17 March 1936, p. 3839."
+   "quelle": "Documentary History of the Florida Canal (1936), pp. 156–157; Congressional Record, 17 March 1936, p. 3839.",
+   "cite": "#/text/camp/start/3",
+   "citeLabel": "Camp Roosevelt, 1935 [3]",
+   "plate": "mer1935_axe"
   },
   {
    "d": "22 October 1935",
@@ -185,11 +198,34 @@
    "quelle": "Congressional Record, Senate, 17 March 1936, pp. 3842, 3846."
   },
   {
+   "d": "3 April 1936",
+   "side": "work",
+   "titel": "John Matthews",
+   "text": "A truck carrying 22 canal workers overturns three miles south of Ocala; John Matthews, a Black worker, dies of a broken neck, and all the others are injured.",
+   "cite": "#/text/camp/stop/2",
+   "citeLabel": "Camp Roosevelt, 1936 [2]",
+   "plate": "sh1936_matthews",
+   "quelle": "Sanford Herald, 3 April 1936, p. 1 (Associated Press)."
+  },
+  {
    "d": "1 June 1936",
    "side": "work",
    "titel": "Ten miles, six thousand men",
    "text": "The canal authority counts about ten miles of the central cut, 17,000,000 cubic yards moved, about $5,000,000 spent and about 6,000 men employed.",
-   "quelle": "Documentary History of the Florida Canal (1936), p. vi."
+   "quelle": "Documentary History of the Florida Canal (1936), p. vi.",
+   "cite": "#/text/camp/work/1",
+   "citeLabel": "Camp Roosevelt, 1936 [1]",
+   "plate": "sd1936_belt"
+  },
+  {
+   "d": "8 July 1936",
+   "side": "work",
+   "titel": "About 5,000 men left unemployed",
+   "text": "With work stopped on the canal, a candidate for Congress proposes moving the men to another canal as relief.",
+   "cite": "#/text/camp/stop/4",
+   "citeLabel": "Camp Roosevelt, 1936 [4]",
+   "plate": "sh1936_hendricks",
+   "quelle": "Sanford Herald, 8 July 1936, p. 2."
   },
   {
    "d": "7 August 1936",

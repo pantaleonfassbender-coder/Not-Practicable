@@ -58,6 +58,20 @@ PLATES = {
     "sd1936_votes": ("ufdc", "UF00055183/00001/gray1085-1.jp2", (60, 655, 960, 945)),
     "h1937_taylor": ("ufdc", "UF00018663/00001/00119.jp2", (60, 60, 960, 560)),
     "hd1937_rightofway": ("local", Q + "relief/hd194_rightofway.png", (20, 230, 990, 960)),   # H. Doc. 75-194, PDF-S. 60
+    # Modul 4: Camp Roosevelt
+    "ccc1935_boom": ("local", Q + "state/verify/ccc1935.png", None),
+    "mer1935_axe": ("local", Q + "state/verify/mer1935.png", (0, 0, 1000, 760)),
+    "sbh1935_sanitation": ("ia", IAP.format("annualreportstat1935flor", 23), (172, 160, 525, 730)),
+    "sbh1935_table": ("local", Q + "people/img/sbh1935_n32_R.jpg", (180, 680, 700, 905)),
+    "sd1936_railway": ("local", Q + "camp/gray0891-1.jp2", (80, 150, 890, 465)),
+    "sd1936_cut": ("local", Q + "camp/gray0891-1.jp2", (80, 580, 890, 845)),
+    "sd1936_slopes": ("local", Q + "camp/gray0891-2.jp2", (115, 225, 930, 465)),
+    "sd1936_bridge": ("local", Q + "camp/gray0891-2.jp2", (115, 555, 930, 845)),
+    "sd1936_belt": ("local", Q + "camp/gray0893-1.jp2", (105, 390, 920, 660)),
+    "sh1936_mules": ("local", Q + "camp/sh1936_mules.png", (0, 0, 1000, 560)),
+    "sh1936_matthews": ("local", Q + "people/img/sh_19360403_matthews.png", (192, 0, 795, 1000)),
+    "sh1936_gloomy": ("local", Q + "camp/sh1936_gloomy.png", (0, 220, 530, 860)),
+    "sh1936_hendricks": ("local", Q + "state/verify/sh1936_hendricks.png", (80, 160, 1000, 880)),
 }
 
 

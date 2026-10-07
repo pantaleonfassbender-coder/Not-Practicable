@@ -146,6 +146,71 @@
      "wer": "James A. Taylor, appraiser, 1937"
     }
    ]
+  },
+  {
+   "id": "promise",
+   "titel": "Promised and counted",
+   "frage": "How many men would the canal employ?",
+   "note": "In September 1935 army officials promised 7,000 men within four months; in the spring of 1936 the Writers' Project expected 20,000 at the peak. In June 1936 the canal authority counted about 6,000, and in July a candidate for Congress spoke of about 5,000 left unemployed.",
+   "voices": [
+    {
+     "text": "camp",
+     "sec": "start",
+     "n": [
+      4
+     ],
+     "wer": "Citrus County Chronicle, 1935"
+    },
+    {
+     "text": "camp",
+     "sec": "work",
+     "n": [
+      1,
+      3
+     ],
+     "wer": "Canal authority and Writers' Project, 1936"
+    },
+    {
+     "text": "camp",
+     "sec": "stop",
+     "n": [
+      4
+     ],
+     "wer": "Sanford Herald, July 1936"
+    }
+   ]
+  },
+  {
+   "id": "workers",
+   "titel": "How the workers appear",
+   "frage": "In what form do the men of the canal enter the record?",
+   "note": "As a share of the relief rolls in a congressman's statement; as an unnamed “Negro” with a sledge in the Chief of Engineers' testimony; and once by name, in a news agency report of his death.",
+   "voices": [
+    {
+     "text": "camp",
+     "sec": "work",
+     "n": [
+      2
+     ],
+     "wer": "Representative W. J. Sears, 1936"
+    },
+    {
+     "text": "camp",
+     "sec": "work",
+     "n": [
+      5
+     ],
+     "wer": "General E. M. Markham, 1937"
+    },
+    {
+     "text": "camp",
+     "sec": "stop",
+     "n": [
+      2
+     ],
+     "wer": "Associated Press, April 1936"
+    }
+   ]
   }
  ]
 }

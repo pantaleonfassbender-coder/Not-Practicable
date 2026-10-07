@@ -26,16 +26,18 @@
    "quelle": "Documentary History of the Florida Canal (Senate Document 275, 1936); House hearings on H.R. 6150 (1937); Levy County Journal 1933.",
    "datei": "relief",
    "zk": "Authority · Relief · Bonds · Land"
-  }
- ],
- "planned": [
+  },
   {
    "id": "camp",
    "side": "work",
    "kurz": "4 · Camp Roosevelt",
-   "warum": "In September 1935 the President set off the first blast from afar, and within months several thousand men, most of them from the relief rolls, were digging south of Ocala. The camps filled before their sanitation was ready; a Black worker, John Matthews, died when a truck of canal workers overturned in 1936.",
-   "quelle": "Florida State Board of Health, report for 1935; Federal Writers' Project, Marion County (1936); Senate Document 275 (1936); Citrus County Chronicle, Madison Enterprise-Recorder, Sanford Herald 1935–36."
-  },
+   "warum": "Hundreds of job hunters in Ocala in September 1935; a camp without latrines; ten miles of cut dug by some 6,000 men, nine in ten from relief; the state counting canal workers by colour; a general proving the rock soft with an unnamed Black worker; John Matthews killed on the way to camp; 5,000 men out of work again by July 1936.",
+   "quelle": "Federal Writers' Project, Marion County (1936); Florida State Board of Health 1935; Documentary History of the Florida Canal (1936); House hearings 1937; Citrus County Chronicle, Madison Enterprise-Recorder, Sanford Herald 1935–36.",
+   "datei": "camp",
+   "zk": "Start · Camp · Work · Stop"
+  }
+ ],
+ "planned": [
   {
    "id": "aquifer",
    "side": "water",
@@ -77,7 +79,7 @@
    "id": "wages",
    "side": "work",
    "kurz": "Wages",
-   "warum": "No hourly rates of 1935–36 found yet; only payroll totals in the press and the statement that ninety per cent of the men came from the relief rolls.",
+   "warum": "No wage rates, hours or living conditions of 1935–36 have been found in the sources read; only that nine in ten men came from the relief rolls and that 73 per cent of the first allotment was meant for wages. The records of the WPA and the Corps of Engineers (National Archives, Record Groups 69 and 77) would be needed.",
    "quelle": "—"
   },
   {
@@ -177,6 +179,20 @@
    "kurz": "Who could not vote on the bonds",
    "warum": "How many adults in the six counties were kept from the bond election by the poll tax and the property requirement, and how many of them were Black, is not counted in any source read so far.",
    "quelle": "County voter registration and tax rolls, 1935; census of 1930 and 1940."
+  },
+  {
+   "id": "ocalapress",
+   "side": "work",
+   "kurz": "The Ocala newspapers of 1935–36",
+   "warum": "The town of the camp is the gap in this module: the Ocala papers of these months are not in the digital collections reached, and Chronicling America is behind a bot check that is not bypassed here. Camp Roosevelt is therefore seen from Inverness, Madison and Sanford.",
+   "quelle": "Ocala Evening Star, Ocala Banner, 1935–36."
+  },
+  {
+   "id": "accidents",
+   "side": "work",
+   "kurz": "Accidents on the works",
+   "warum": "The death of John Matthews is the only accident of 1935–36 found so far. No count of injuries or deaths on the canal works has been found.",
+   "quelle": "Corps of Engineers and WPA records; Florida State Board of Health."
   }
  ]
 }

@@ -1,0 +1,176 @@
+{
+ "id": "camp",
+ "titel": "Camp Roosevelt",
+ "jahr": "1935–1936",
+ "autor": "County newspapers, a state health report, the canal's advocates and the Associated Press",
+ "quelle": "Federal Writers' Project, American Guide, Marion County (typescript, 1936); Documentary History of the Florida Canal (Senate Document 275, 74th Congress, 1936); Hearings on H.R. 6150, House Committee on Rivers and Harbors (1937): University of Florida Digital Collections. Florida State Board of Health, Thirty-sixth Annual Report (1935): Internet Archive. Citrus County Chronicle, Madison Enterprise-Recorder and Sanford Herald, 1935–36: Florida Digital Newspaper Library. Federal and state works are in the public domain; for the newspapers no renewal of copyright has been found.",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission; tables are set as running text. The newspapers of Ocala for these months are not in the digital collections reached; the town's own record of the camp is missing. No worker of the canal speaks in these sources: they appear as numbers, as “job hunters”, as an unnamed man with a sledge and, once, by name, in the report of his death. Wages, hours, food and the division of the camps by race are not documented in what has been read.",
+ "sections": [
+  {
+   "id": "start",
+   "titel": "Hundreds of job hunters (September 1935)",
+   "blurb": "Within days of the President's allotment Ocala filled with men looking for work. A hundred broke the first ground with axes and shovels on 14 September; on the 19th the President set off a charge of dynamite by pressing a button at Hyde Park; by the first of October 3,000 men were at work.",
+   "plates": [
+    "ccc1935_boom",
+    "mer1935_axe"
+   ],
+   "viz": "camp-men",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Citrus County Chronicle (Inverness), 12 September 1935, p. 4",
+     "titel": "“Hundreds of job hunters”",
+     "orig": "Just Like Boom Days. The biggest development to hit this section of Florida since boom days is the cross-state canal project, work on which has actually begun following the allocation of $5,000,000 last week by President Roosevelt to start preliminary construction. Ocala, operations headquarters for the gigantic undertaking, is already assuming a boom-time aspect and is buzzing with activity as hundreds of job hunters swarm over the town and as the big headquarter's camp is being constructed just out of the city. … Col. Brehon B. Somervell, army engineer who has charge of building “the world's greatest canal,” has announced that employment on the project would be done under the WPA with eligible men to be certified by the National Re-employment service offices. Labor will be chosen as near as possible from the section near by the canal, those who can subsist themselves and live at home being given preference.",
+     "note": "The “boom days” are those of the Florida land boom of the 1920s, which ended in collapse. Preference was to go to men who lived near the canal and could keep themselves at home; the camp was for the others."
+    },
+    {
+     "n": 2,
+     "pg": "Madison Enterprise-Recorder, 20 September 1935, p. 10",
+     "titel": "Axe and shovel",
+     "orig": "… a crew of 100 men labored with axe and shovel September 14 breaking the first ground in construction of the Florida canal. … Col. Somervell, who 17 years ago was building railroads near the front in France, chopped down the first tree on the right-of-way. Slightly more than 1750 men labored at Camp Roosevelt, central construction camp a mile and a half south of Ocala. Col. Somervell said Monday a crew of 200 additional men would be placed at work digging and six crews of 120 men each would start clearing right-of-way. The canal chief said by Christmas all the $500,000 set aside for housing would be spent, and that more would be asked.",
+     "note": "The beginning of the work has three dates in the sources: 3 September (the order, module 3), 14 September (the first ground broken, here) and 19 September (the ceremony, [3]). The 1,750 men at Camp Roosevelt were building the camp itself."
+    },
+    {
+     "n": 3,
+     "pg": "Federal Writers' Project, Marion County (typescript, 1936), “Ocala”, folio 81",
+     "titel": "A button at Hyde Park",
+     "orig": "Formal opening of the excavation of the Florida Gulf-Atlantic Ship Canal, at a point near Ocala, occurred September 19, 1935, when at one o'clock p. m., President Roosevelt, at his Hyde Park home, pushed the button that set off a heavy charge of dynamite. By October 1st, 3000 men were employed. The work is directed by Lt. Col. Brehon Somervall, Chief Engineer of Canals.",
+     "note": "Written by the Federal Writers' Project, itself a relief programme, for the American Guide. The typescript spells the engineer's name “Somervall”."
+    },
+    {
+     "n": 4,
+     "pg": "Citrus County Chronicle (Inverness), 19 September 1935, p. 1",
+     "titel": "“Every jobless man”",
+     "orig": "All Workers Are Hired on Recommendations of Re-employment Office. Citrus county's unemployed are already being benefitted by construction of the Atlantic-Gulf ship canal across Florida, on which actual digging got under way Sunday a few miles out of Ocala. H. T. Ashley, manager of the National Re-employment service's office here, said yesterday that already more than 20 carpenters and brick masons from this county have been given employment on the project, which is being pushed vigorously by United States army engineers. Although this number is only a small percentage of Citrus county's unemployed, every jobless man in this and surrounding counties is expected to land a position with the canal project when construction work reaches its peak. Already more than 1000 men are at work in the Ocala area and a total of 7000 will be on the job in less than four months, high ranking army officials have announced.",
+     "note": "The promise of the canal in one county newspaper: work for every jobless man of the surrounding counties. Women are not mentioned."
+    }
+   ],
+   "zk": "Camp Roosevelt, Hundreds of job hunters"
+  },
+  {
+   "id": "camp",
+   "titel": "Before the latrines (autumn 1935)",
+   "blurb": "The state's health officers found the workers arriving before the camps had sanitation, food protection or safe water. Their own records counted the canal workers they examined by colour.",
+   "plates": [
+    "sbh1935_sanitation",
+    "sbh1935_table"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Florida State Board of Health, Thirty-sixth Annual Report, for the year 1935, p. 36: “Camp Roosevelt and Canal Zone Sanitation”",
+     "titel": "“Before adequate plans had been made”",
+     "orig": "Sanitation in connection with Camp Roosevelt and other construction camps installed in the cross-state Canal zone area has been a matter of utmost importance to the Bureau. Before adequate plans had been made for necessary sanitary facilities in these camps, the workers began to arrive and measures to handle the situation required prompt action on the part of the State Board of Health. As a result it was necessary for our District Sanitary Officer stationed in Ocala to spend practically all of his time during September and early October working with the camp officials to devise ways and means to handle a situation made serious by a dual problem—absence of proper sanitary facilities and inadequate protection of food and the sanitary preparation of same.",
+     "note": "The men came faster than the latrines. What the “serious” situation meant for those living in the camps, illness or not, the report does not say."
+    },
+    {
+     "n": 2,
+     "pg": "Florida State Board of Health, Thirty-sixth Annual Report, for the year 1935, p. 36",
+     "titel": "Water of poor quality",
+     "orig": "The matter of safe water supply, was one that gave much real concern. As is the case with new well installations, where materials used are not properly sterilized previous to use; examinations on samples collected indicated poor sanitary quality. This prevented approval of the several deep wells immediately following completion and in some instances it was several weeks before results were obtained that would permit the Bureau to pass favorably upon these supplies. Upon recommendation of the Bureau, officials at the camp arranged to have the main supply subjected to chlorination and by the close of the year all supplies were giving constant, satisfactory results.",
+     "note": "For several weeks the camp's new wells had not passed the state's tests."
+    },
+    {
+     "n": 3,
+     "pg": "Florida State Board of Health, Thirty-sixth Annual Report, for the year 1935, p. 55: table of the public health nursing service, “Corrections”",
+     "titel": "White 56, Colored 3",
+     "orig": "[Corrections:] White, Colored. … Canal Workers Examination 56, 3.",
+     "note": "The last line of a table of the state's public health nurses: 59 examinations of canal workers in 1935, counted by colour. It shows that the state's health service kept its records by race; it does not show how the camps or the crews were divided, nor how many of the canal's workers were Black. What “examination” covered here is not explained."
+    }
+   ],
+   "zk": "Camp Roosevelt, Before the latrines"
+  },
+  {
+   "id": "work",
+   "titel": "Ten miles of cut (1935–1936)",
+   "blurb": "By June 1936 about ten miles of the central cut south of Ocala had been dug by dragline, conveyor and industrial railway, by some 6,000 men, nine in ten of them from the relief rolls. The Chief of Engineers proved the softness of the rock with an unnamed Black worker and a sledge.",
+   "plates": [
+    "sd1936_railway",
+    "sd1936_cut",
+    "sd1936_slopes",
+    "sd1936_bridge",
+    "sd1936_belt"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Documentary History of the Florida Canal (Senate Document 275, 74th Congress, 1936), p. vi: bulletin of the Ship Canal Authority, 1 June 1936",
+     "titel": "Ten miles in nine months",
+     "orig": "Present status (June 1, 1936): Length of central cut excavated (approximate) … miles 10. Yardage removed (approximate) … cubic yards 17,000,000. Bridges: Piers of first bridge substantially complete. Other structures: Headquarters and other camps complete. Other work: Clearing on central cut section complete. Expended to date (approximate) … $5,000,000. Men now employed (approximate) … 6,000.",
+     "note": "The canal authority's own figures, published to win more money. The same page gives the total excavation planned as 571,000,000 cubic yards: what had been moved was about three per cent."
+    },
+    {
+     "n": 2,
+     "pg": "Documentary History of the Florida Canal (Senate Document 275, 74th Congress, 1936), p. 389: Representative W. J. Sears before a House Appropriations subcommittee, 17 April 1936",
+     "titel": "“Taken from the relief rolls”",
+     "orig": "There are now 6,000 people employed on the canal, 90 percent of whom were taken from the relief rolls. They allowed contractors 10 percent not on relief rolls, because the contractors had to take with them certain men who had been with them for years. The men are doing real work, and you are getting dollar for dollar for the work. If $12,000,000 is appropriated, the result will be that 10,000 more people in Florida will come off the relief rolls and begin digging the canal.",
+     "note": "Nine in ten from relief, one in ten the contractors' own men. Wages and hours are not given in any source read so far."
+    },
+    {
+     "n": 3,
+     "pg": "Federal Writers' Project, Marion County (typescript, 1936), folio 91",
+     "titel": "“The largest single labor project”",
+     "orig": "The estimated cost of the canal is $143,000,000, exclusive of the land, which is being furnished by local interests. It is now expected that the canal will be completed within six years, providing funds are available at the rate sufficient to permit work in the most economical manner. Approximately 6,000 men began work on the project, the largest single labor project in the United States. It is estimated that 20,000 will be employed at the peak of operation.",
+     "note": "A claim made in the spring of 1936; no source checks it against other relief works of the time."
+    },
+    {
+     "n": 4,
+     "pg": "House hearings on H.R. 6150, April 1937, p. 17: General E. M. Markham, Chief of Engineers",
+     "titel": "“Common labor obtained from relief rolls”",
+     "orig": "Mr. Culkin. General, suppose it is treated as a work-relief project, what would be the added cost of it? General Markham. I doubt if anything would be added, providing the work were not complicated by what would ordinarily be the relief regulations. For example, I think that, if they went forward with the common labor obtained from relief rolls, the cost would be all right. Complications come with the regulations or the class and character of operators. They would have to get into this vast affair from relief, under regulations which would increase the cost in amounts which we could not estimate at this time.",
+     "note": "In 1937, after the stop, the Chief of Engineers wanted the work as contract work: relief labour for the shovels, but without relief regulations."
+    },
+    {
+     "n": 5,
+     "pg": "House hearings on H.R. 6150, April 1937, pp. 466–467: Markham on the “Ocala rock”",
+     "titel": "“That Negro”",
+     "orig": "I asked that a quarry with a 70-foot face be prepared in this Ocala for demolition in my presence so that I personally could come to a perfectly understand of just what our task was in excavating this unprecedented amount of material. That was done. … When I got down where the boulders were, if I saw a sharp projection from a boulder I could reach over and break it off with my hand, and that is this so-called rock. I observed a large boulder the size of this chair [indicating] and turning to the owner I said, “Will you have that Negro take that sledge and work on that boulder?” The sledge was about a 5-pound one and the Negro swung it about five times and split the entire boulder into pieces.",
+     "note": "The only Black worker who appears at the canal's rock in these sources: unnamed, set to work by the general's word to the quarry's owner, used to prove that the limestone was soft. Who he was and what he was paid is not recorded."
+    }
+   ],
+   "zk": "Camp Roosevelt, Ten miles of cut"
+  },
+  {
+   "id": "stop",
+   "titel": "Mules, a death, and the stop (1936)",
+   "blurb": "In March 1936 the government sold 201 mules from a canal camp; in April a truck of canal workers overturned and John Matthews died. In June Congress refused more money, and by July some 5,000 men were out of work again.",
+   "plates": [
+    "sh1936_mules",
+    "sh1936_matthews",
+    "sh1936_gloomy",
+    "sh1936_hendricks"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Sanford Herald, 3 March 1936, p. 5: advertisement",
+     "titel": "201 mules",
+     "orig": "Public Auction Sale. 201 Young Mules & Harness Used By United States Government. 10:00 A. M., Wednesday, March 4, 1936. Camp No. 1, 9 Miles South of Ocala, Fla. We will sell at auction 201 mules and harness used by United States Government on Atlantic-Gulf Ship Canal project, starting at 10:00 A. M., Wednesday, March 4, 1936, at the mule barns, Camp No. 1, on Orange Road (Paved), 9 miles south of Ocala, Florida. … Fies & Sons, Birmingham, Ala.",
+     "note": "The canal was cleared and dug partly with mules. The advertisement does not say why the mules were sold in March, three months before the money ran out; it names a second camp nine miles south of Ocala."
+    },
+    {
+     "n": 2,
+     "pg": "Sanford Herald, 3 April 1936, p. 1 (Associated Press)",
+     "titel": "John Matthews",
+     "orig": "One Killed, 20 Hurt in Crash of Truck on Canal at Ocala. Ocala, Apr. 3.—(AP)—John Matthews, negro, died at a hospital of a broken neck received Wednesday night when a truck carrying 22 Florida ship canal construction workers overturned three miles south of here. All occupants were injured. All available ambulances were pressed into service to carry the men to a hospital. The crew was en route to a canal construction camp when the truck driver apparently lost control. The vehicle plunged into a ditch.",
+     "note": "The only death on the canal works of 1935–36 found so far, and the only canal worker of these months named in the sources read. The report names him and his race, not his age, home or family; the other 21 men are not named. No count of accidents on the works has been found."
+    },
+    {
+     "n": 3,
+     "pg": "Sanford Herald, 19 June 1936, p. 1 (Associated Press)",
+     "titel": "Gloom in Ocala",
+     "orig": "Canal Defeat Gives Gloomy Air To Ocala. Ocala, June 19.—(AP)—Gloom prevailed in Ocala yesterday over the defeat of the Florida ship canal project in the House and Senate. Nevertheless, hope was not entirely lacking. Many confidently expressed belief the canal will be built, and some saw a possibility of favorable action on the project before the present Congress adjourns. At Camp Roosevelt, headquarters of the United States Engineers District, and along the right of way of the canal work continued according to schedule. Maj. E. H. Levy, acting district engineer, said the present program calls for work that will not be completed before the end of July, unless instructions are received to bring all activity to an end in the meantime.",
+     "note": "How Congress refused the money is the subject of module 5."
+    },
+    {
+     "n": 4,
+     "pg": "Sanford Herald, 8 July 1936, p. 2",
+     "titel": "Five thousand left",
+     "orig": "Hendricks Advises Local Efforts On Indian River Canal. … the speaker emphasized the importance of renewing the fight for the St. Johns-Indian River canal at the present time. He said that since work has stopped on the cross state canal about 5,000 men are left unemployed and that it might be a good suggestion to urge the President to transfer those men to the new canal as a relief …",
+     "note": "The speaker is Joe Hendricks, a candidate for Congress. Ten months after the first tree was cut, the men of the canal were a reserve of relief labour to be moved to the next project."
+    }
+   ],
+   "zk": "Camp Roosevelt, Mules, a death, and the stop"
+  }
+ ]
+}
