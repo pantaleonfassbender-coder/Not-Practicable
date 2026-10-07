@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="wr-t wr-d" font-family="var(--serif)">
+<title id="wr-t">Why a canal? The reasons given, 1826–1942</title><desc id="wr-d">1826: White 1826: the reefs; 1826: White 1826: in time of war; 1826: White 1826: emigration; 1855: Smith 1855: insurance, time; 1855: Smith 1855: hostilities; 1880: Gillmore 1880: tonnage; 1883: Stone 1883: wrecks and salvage; 1933: Memorial 1933: human labor; 1933: Memorial 1933: the Straits; 1935: Roosevelt 1935: work relief; 1937: Markham 1937: relief and navigation; 1941: Andrews and Pepper 1941; 1942: House 1942: submarines; 1942: House 1942: oil for the East.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Why a canal? The reasons given, 1826–1942</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Each dot is a passage in this apparatus that argues for the canal on that ground; hover for the source, click to read it.</text>
+<line x1="230" x2="870" y1="90" y2="90" stroke="var(--line)"/><text x="16" y="95" font-size="13" fill="var(--ink)">Shipping, wrecks, insurance</text>
+<line x1="230" x2="870" y1="134" y2="134" stroke="var(--line)"/><text x="16" y="139" font-size="13" fill="var(--ink)">War and defence</text>
+<line x1="230" x2="870" y1="178" y2="178" stroke="var(--line)"/><text x="16" y="183" font-size="13" fill="var(--ink)">Land and settlement</text>
+<line x1="230" x2="870" y1="222" y2="222" stroke="var(--line)"/><text x="16" y="227" font-size="13" fill="var(--ink)">Work for the unemployed</text>
+<line x1="230" x2="870" y1="266" y2="266" stroke="var(--line)"/><text x="16" y="271" font-size="13" fill="var(--ink)">Oil</text>
+<text x="256" y="310" font-size="11.5" text-anchor="middle" fill="var(--ink2)">1825</text>
+<text x="384" y="310" font-size="11.5" text-anchor="middle" fill="var(--ink2)">1850</text>
+<text x="512" y="310" font-size="11.5" text-anchor="middle" fill="var(--ink2)">1875</text>
+<text x="640" y="310" font-size="11.5" text-anchor="middle" fill="var(--ink2)">1900</text>
+<text x="768" y="310" font-size="11.5" text-anchor="middle" fill="var(--ink2)">1925</text>
+<text x="870" y="310" font-size="11.5" text-anchor="middle" fill="var(--ink2)">1945</text>
+<a href="#/text/ridge/senate/2"><circle cx="261" cy="90" r="7" fill="var(--river)"><title>White 1826: the reefs</title></circle></a>
+<a href="#/text/ridge/senate/5"><circle cx="261" cy="134" r="7" fill="var(--capitol)"><title>White 1826: in time of war</title></circle></a>
+<a href="#/text/ridge/senate/3"><circle cx="261" cy="178" r="7" fill="var(--land)"><title>White 1826: emigration</title></circle></a>
+<a href="#/text/ridge/rails/3"><circle cx="409" cy="90" r="7" fill="var(--river)"><title>Smith 1855: insurance, time</title></circle></a>
+<a href="#/text/ridge/rails/3"><circle cx="409" cy="134" r="7" fill="var(--capitol)"><title>Smith 1855: hostilities</title></circle></a>
+<a href="#/text/ridge/company/3"><circle cx="537" cy="90" r="7" fill="var(--river)"><title>Gillmore 1880: tonnage</title></circle></a>
+<a href="#/text/ridge/company/6"><circle cx="553" cy="90" r="7" fill="var(--river)"><title>Stone 1883: wrecks and salvage</title></circle></a>
+<a href="#/text/relief/authority/3"><circle cx="809" cy="222" r="7" fill="var(--work)"><title>Memorial 1933: human labor</title></circle></a>
+<a href="#/text/relief/authority/3"><circle cx="809" cy="90" r="7" fill="var(--river)"><title>Memorial 1933: the Straits</title></circle></a>
+<a href="#/text/relief/loan/2"><circle cx="819" cy="222" r="7" fill="var(--work)"><title>Roosevelt 1935: work relief</title></circle></a>
+<a href="#/text/aquifer/board/4"><circle cx="829" cy="222" r="7" fill="var(--work)"><title>Markham 1937: relief and navigation</title></circle></a>
+<a href="#/text/war/defence/1"><circle cx="850" cy="134" r="7" fill="var(--capitol)"><title>Andrews and Pepper 1941</title></circle></a>
+<a href="#/text/war/debate/1"><circle cx="855" cy="134" r="7" fill="var(--capitol)"><title>House 1942: submarines</title></circle></a>
+<a href="#/text/war/debate/4"><circle cx="855" cy="266" r="7" fill="var(--survey)"><title>House 1942: oil for the East</title></circle></a>
+<text x="16" y="346" font-size="12" fill="var(--ink2)">Ships and war run through the whole record; work came in 1933, oil in 1942. Growth, the reason of the 1960s, follows in module 7.</text>
+</svg>

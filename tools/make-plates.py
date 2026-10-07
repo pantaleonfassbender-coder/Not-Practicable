@@ -81,6 +81,15 @@ PLATES = {
     "hd1937_route": ("local", Q + "aquifer/hd194_route.png", (10, 20, 990, 985)),
     "h1937_telegrams": ("ufdc", "UF00018663/00001/00129.jp2", (60, 740, 960, 950)),
     "cr1939_vote": ("local", Q + "aquifer/dli.ernet.78569_n1015.jpg", (500, 0, 1000, 520)),
+    # Modul 6: A canal for the war
+    "sh1941_defense": ("local", Q + "war/np/sh1941.png", (0, 70, 1000, 1000)),
+    "cr1942_submarines": ("local", Q + "war/PL77711_n22.jpg", (345, 40, 655, 1000)),
+    "cr1942_vote": ("local", Q + "war/PL77711_n23.jpg", (345, 40, 655, 1000)),
+    "stat1942_act": ("pdf", Q + "federal/govinfo/STATUTE-56-Pg703.pdf::1", (40, 60, 990, 640)),
+    "hrept1945_secret": ("pdf", SER + "10931_00_00-003-0002-0000.pdf::1", None),
+    "sh1942_duration": ("local", Q + "war/np/sh1942b.png", None),
+    "sh1943_sanford": ("local", Q + "war/np/sh1943a.png", (0, 0, 640, 1000)),
+    "sh1943_cut": ("local", Q + "war/np/sh1943b.png", None),
 }
 
 

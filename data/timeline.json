@@ -271,11 +271,34 @@
    "plate": "cr1939_vote"
   },
   {
+   "d": "1 June 1942",
+   "side": "capitol",
+   "titel": "Submarines, oil, and 85 to 121",
+   "text": "The House debates a barge canal and pipeline across Florida as a war measure against the submarines; under suspension of the rules the bill fails, 85 to 121.",
+   "cite": "#/text/war/debate/5",
+   "citeLabel": "A canal for the war, 1942 [5]",
+   "plate": "cr1942_vote",
+   "quelle": "Congressional Record, House, 1 June 1942, pp. 4773–4774."
+  },
+  {
    "d": "23 July 1942",
    "side": "capitol",
    "titel": "A barge canal for the war",
-   "text": "Congress authorizes “a high-level lock barge canal from the Saint Johns River across Florida to the Gulf of Mexico” and $93,000,000.",
-   "quelle": "Act of 23 July 1942, 56 Stat. 703."
+   "text": "Congress authorizes “a high-level lock barge canal from the Saint Johns River across Florida to the Gulf of Mexico”, a pipeline, and $93,000,000. No construction money follows during the war.",
+   "quelle": "Act of 23 July 1942, 56 Stat. 703.",
+   "cite": "#/text/war/act/1",
+   "citeLabel": "A canal for the war, 1942 [1]",
+   "plate": "stat1942_act"
+  },
+  {
+   "d": "2 April 1943",
+   "side": "capitol",
+   "titel": "$44,000,000 struck",
+   "text": "The House Appropriations Committee cuts the canal from a War Department bill as too slow to help with the oil problem of the East.",
+   "cite": "#/text/war/money/3",
+   "citeLabel": "A canal for the war, 1943 [3]",
+   "plate": "sh1943_cut",
+   "quelle": "Sanford Herald, 2 April 1943, p. 2."
   },
   {
    "d": "27 February 1964",

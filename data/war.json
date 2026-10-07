@@ -1,0 +1,136 @@
+{
+ "id": "war",
+ "titel": "A canal for the war",
+ "jahr": "1941–1945",
+ "autor": "Florida's senators, the House of Representatives, the Army's engineers and a Sanford newspaper",
+ "quelle": "Sanford Herald, 6 February 1941, 16 April 1942, 23 February and 2 April 1943 (Florida Digital Newspaper Library, University of Florida); Congressional Record, House, 1 June 1942 (Internet Archive); Act of 23 July 1942, 56 Stat. 703, and House Report 2, 79th Congress (1945) (govinfo.gov). The federal printings are in the public domain; for the newspaper no renewal of copyright has been found.",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission. The pages of the Congressional Record of 1 June 1942 survive here only because they were bound, by chance, into another bill's legislative history; the speaker of the first passage is named on the preceding page, which is not in the scan. The final votes on the bill in July 1942 and the engineers' report of June 1942 have not yet been read.",
+ "sections": [
+  {
+   "id": "defence",
+   "titel": "Vital to defence (1941)",
+   "blurb": "In February 1941 Florida's senators brought the ship canal back as “a vital element in our defense”: the Navy would find it hard to protect shipping in the Florida Straits in a war.",
+   "plates": [
+    "sh1941_defense"
+   ],
+   "viz": "war-reasons",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Sanford Herald, 6 February 1941, p. 2",
+     "titel": "“A vital element in our defense”",
+     "orig": "Florida Senators Term Ship Canal Vital To Defense. Washington, Feb. 6—(Special)—Describing the Florida ship canal as a “vital element in our defense,” Senators Andrews and Pepper will urge Congress to enact legislation providing for its immediate construction and prompt completion. “In the event of United States' involvement in a war in this hemisphere,” they said, “the navy would have a difficult and hazardous task in protecting shipping in the Florida straits between the Caribbean Sea and the Gulf of Mexico.” The new canal bill will call for a sea-level canal, 33 feet deep, 400 feet wide in the Ocala cut, and 600 feet wide in the approaches and in the St. Johns, Oklawaha and Withlacoochee Rivers. The estimated cost is $160,000,000. … While they were satisfied that no basis existed for fears that water supply of South Florida would be endangered, the senators said, their bill would contain a provision “for the building of any control works which our Army engineers may deem advisable …”",
+     "note": "Before the United States entered the war, the ship canal comes back with a new reason. The plan is still the sea-level canal of 1937, with a clause for works to calm the fears about ground water (module 5)."
+    }
+   ],
+   "zk": "A canal for the war, Vital to defence"
+  },
+  {
+   "id": "debate",
+   "titel": "Submarines and oil (June 1942)",
+   "blurb": "With enemy submarines attacking shipping off the coast and gasoline rationed in the East, a barge canal and an oil pipeline across Florida came before the House. A Florida member spoke of the “blood of many hundreds of Americans”; a Californian quoted a Miami paper's “boondoggling bill”. The first vote failed, 85 to 121.",
+   "plates": [
+    "cr1942_submarines",
+    "cr1942_vote"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Congressional Record, House, 1 June 1942, p. 4773: a Representative from Florida (his name stands on p. 4772, not in the scan)",
+     "titel": "“Submarine tragedies”",
+     "orig": "In my first campaign for election to Congress more than 18 years ago, I promised the people of Florida to work for a canal across north Florida connecting up this intracoastal system; … Today, I am about to realize, I hope, the success of this 18 years of constant effort for an improvement which will be of tremendous peacetime economic value, and which at the moment is an absolute war essential. … I am thinking today of the almost daily occurring submarine tragedies on our Atlantic—particularly the lower Atlantic and Gulf areas. The blood of many hundreds of Americans has been spilled in this area by ruthless and savage attacks by enemy submarines. Millions of dollars' worth of cargoes—primarily oil—have been destroyed. Thousands of you who are inclined not to support this bill will bear in mind that these lives of our American people and these war-essential cargoes destroyed are worth far more in the protection of our great Nation than are financial investments.",
+     "note": "The speaker names no figures for the ships and lives lost. The bill, H.R. 6999, joined a barge canal across Florida to an oil pipeline and a deeper Gulf Intracoastal Waterway. The speaker also complains that the Republican members of the committee yielded time only to opponents."
+    },
+    {
+     "n": 2,
+     "pg": "Congressional Record, House, 1 June 1942, p. 4773: Representative Carter of California",
+     "titel": "“A boondoggling bill”",
+     "orig": "Mr. Carter. Mr. Speaker, I call the attention of the House to the fact that this bill was never submitted to the Bureau of the Budget, that it does not have the approval of the War Production Board, that it is brought in here with undue haste under a motion to suspend the rules … Mr. Speaker, this bill has been referred to as a boondoggling bill in an editorial in the Miami Herald in the State of Florida. I do not want this Congress to make itself ridiculous by passing a measure that has been said by somebody to be the beginning of the old Florida ship canal. We must conserve our financial resources to carry on the war and cut out all nonessential expenditures.",
+     "note": "Florida's own south again, through a Miami newspaper, as in 1936."
+    },
+    {
+     "n": 3,
+     "pg": "Congressional Record, House, 1 June 1942, pp. 4773–4774: Representative Mansfield of Texas",
+     "titel": "“There is no ground or reason”",
+     "orig": "Mr. Speaker, the question of the ship canal across Florida has been raised. I hold in my hand a minority report, which I made against that proposition, signed by myself and nine other members of the committee … They all signed it, in opposition to a ship canal across Florida, more than a year ago, long before this question here before us was ever raised. There is no ground or reason or argument for a ship canal there. … The bill here as proposed does not go to the ocean at either end. It only connects up the two shallow barge canal channels, 12 feet deep. … Several gentlemen from Florida, all of them, in fact, are in favor of a ship canal, if you will put it to their door. They have annoyed the life out of me for 6 years to get it to run here or there, but when you propose to put it across where the engineers say is the most practical place to put it, they object.",
+     "note": "The ship canal becomes a barge canal: twelve feet deep instead of thirty, to carry oil and other cargo inland, out of the submarines' reach, from Texas to the East."
+    },
+    {
+     "n": 4,
+     "pg": "Congressional Record, House, 1 June 1942, p. 4774",
+     "titel": "“Who has asked for this legislation?”",
+     "orig": "Mr. Rankin of Mississippi. It was testified before the committee that it would supply 1,600,000 barrels of oil a day on the Atlantic coast. This short canal across Florida, when completed, in connection with the barge canal, would supply the entire amount, and it is the only proposition that has been proposed that will supply it. Mr. Mansfield. The gentleman is correct. Mr. Michener. … Now, who has asked for this legislation as presented? Mr. Mansfield. Millions of people all over the United States, both in the East and the West. Down in my State we have so much oil and gasoline that we cannot dispose of it. Up in the East they are rationed and still suffering for the need of it. Mr. Michener. Yes; I know, but I am asking who appeared before the committee? In other words, is the War Department asking for this as a national defense measure? Is the Navy asking for it? Is the administration asking for it, or is the War Production Board asking for it? …",
+     "note": "Oil was the new argument: gasoline was rationed in the East. Michener's question, who in the war effort had asked for the canal, gets no answer before the time runs out."
+    },
+    {
+     "n": 5,
+     "pg": "Congressional Record, House, 1 June 1942, p. 4774",
+     "titel": "85 to 121",
+     "orig": "The Speaker. The gentleman's time has expired. All time has expired. The question is, Will the rules be suspended and the bill passed? The question was taken; and on a division (demanded by Mr. Dingell) there were ayes 85 and noes 121. … So, two-thirds not having voted in favor thereof, the motion to suspend the rules and pass the bill was rejected.",
+     "note": "The first attempt fails. Seven weeks later the bill became law (next section); the votes by which it then passed have not yet been read in the Record."
+    }
+   ],
+   "zk": "A canal for the war, Submarines and oil"
+  },
+  {
+   "id": "act",
+   "titel": "Authorized, not built (July 1942)",
+   "blurb": "On 23 July 1942 Congress authorized “a high-level lock barge canal” across Florida and $93,000,000. The engineers' report behind it was kept secret until 1945.",
+   "plates": [
+    "stat1942_act",
+    "hrept1945_secret"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Act of 23 July 1942, ch. 520, 56 Stat. 703 (Public Law 675, 77th Congress, H.R. 6999)",
+     "titel": "A high-level lock barge canal",
+     "orig": "An Act To promote the national defense and to promptly facilitate and protect the transport of materials and supplies needful to the Military Establishment by authorizing the construction and operation of a pipe line and a navigable barge channel across Florida, and by deepening and enlarging the Intracoastal Waterway from its present eastern terminus to the vicinity of the Mexican border. Be it enacted … That, in order to promote the national defense and to promptly facilitate and protect the transport of materials and supplies needful to the Military Establishment, there is hereby authorized to be constructed under the direction of the Secretary of War and the supervision of the Chief of Engineers a high-level lock barge canal from the Saint Johns River across Florida to the Gulf of Mexico in accordance with the plans set forth in the letter of the Chief of Engineers dated June 15, 1942; … And provided further, That … there is authorized to be constructed one or more pipe lines, together with all necessary terminal facilities, for the transport of petroleum and its products, from the vicinity of Port Saint Joe and other points on the Gulf Coast of Florida to the Saint Johns River … Sec. 2. There is hereby authorized to be appropriated the sum of $93,000,000 to carry out the provisions of this Act. Approved, July 23, 1942.",
+     "note": "The law that authorized the canal until 1990. A “high-level lock” canal: no deep cut into the limestone, and so no quarrel over the ground water. Authorized is not appropriated: the act allows Congress to spend $93,000,000; it does not spend it."
+    },
+    {
+     "n": 2,
+     "pg": "House Report 2, 79th Congress, 1st Session, 8 January 1945",
+     "titel": "A secret report",
+     "orig": "On July 31, 1942, the Secretary of War transmitted a report from the Chief of Engineers, United States Army, dated June 12, 1942, together with accompanying papers and an illustration submitting a review of reports on the Atlantic-Gulf ship canal, Fla., … Accompanying this letter of transmittal, was a memorandum to the Speaker of the House of Representatives requesting that, as the accompanying report contains information affecting the national defense of the United States, it be read only in executive session and that it not be printed during the emergency. This request was complied with and the report was referred to the Committee on Rivers and Harbors without printing. On November 10, 1944, the Secretary of War transmitted another letter to the Speaker of the House, … advising that the confidential classification which accompanied the first letter of the Secretary of War has been removed … The purpose of this resolution is to comply with the suggestion of the Secretary of War and print the entire correspondence as a House document, which the Public Printer estimates will cost approximately $101.08.",
+     "note": "The engineers' review of June 1942 was kept from print until 1945, after the law it supported had been passed. The report itself (House Document 109, 79th Congress) has not yet been found; see Texts, “Examined and not included”."
+    }
+   ],
+   "zk": "A canal for the war, Authorized, not built"
+  },
+  {
+   "id": "money",
+   "titel": "No money (1942–1943)",
+   "blurb": "No construction money followed. Sanford, which had fought the sea-level canal over its wells, said it would not oppose a canal with locks; in 1943 the House Appropriations Committee struck $44,000,000 for the canal as too slow to help the war.",
+   "plates": [
+    "sh1942_duration",
+    "sh1943_sanford",
+    "sh1943_cut"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Sanford Herald, 16 April 1942, p. 2",
+     "titel": "“Out for the duration”",
+     "orig": "According to President Roosevelt, the cross state canal is out for the duration. But that project has been out so many times before, we must expect to see it rise again.",
+     "note": "A note in the Sanford paper's editorial column, three months before the act. What exactly the President said, and where, the note does not tell."
+    },
+    {
+     "n": 2,
+     "pg": "Sanford Herald, 23 February 1943, p. 2: editorial",
+     "titel": "Sanford changes its mind",
+     "orig": "Sanford's opposition to the cross state canal from Yankeetown to Palatka has been based solely on the assumption that it would be a sea level canal cut through the Ocala limestone through which the artesian wells of this section are fed, thus lowering the water table to such an extent, or contaminating it with salt water, that our farmers and citrus growers would be at the mercy of a somewhat uncertain rainfall. But if the cross state canal is to be a lock canal including five locks, thus limiting the depth which it will have to be sunk into the limestone and carefully sealing the porous rock so that salt cannot seap into the subterranean veins which carry our underground water to us and if other adequate safety precautions are taken so that all danger to our farms and groves are removed, we can see no reason whatever why the people of this section would oppose its construction … Certainly the people of this section are not disposed to fight the cross state canal simply because it means something to Ocala or some other part of the state …",
+     "note": "The barge canal with locks took away the argument of 1935–37. The editorial is set in a page about Senator Pepper's plan for a network of Florida waterways that would also serve Sanford."
+    },
+    {
+     "n": 3,
+     "pg": "Sanford Herald, 2 April 1943, p. 2",
+     "titel": "“Of no help whatever”",
+     "orig": "The House Appropriations Committee cut the cross state canal and the $44,000,000 for its construction from a War Department bill, declaring that it would be so long before the canal could possibly be built that it would be of no help whatever in solving the oil problem for the eastern seaboard. We may expect, however, that the canal, as it has had a habit of doing for the past ten years, will bob up again when the bill makes its appearance on the floor of the House.",
+     "note": "The war argument turned against the canal: too slow to help in this war. No money for construction followed during the war; the next works began in 1964 (module 7)."
+    }
+   ],
+   "zk": "A canal for the war, No money"
+  }
+ ]
+}

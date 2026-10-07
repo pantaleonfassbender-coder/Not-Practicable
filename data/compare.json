@@ -268,6 +268,54 @@
      "wer": "Representative W. J. Sears, 1936"
     }
    ]
+  },
+  {
+   "id": "warreason",
+   "titel": "War as a reason, 1826 and 1942",
+   "frage": "How did war argue for a canal across Florida?",
+   "note": "Florida's delegate in 1826 wanted “one connected chain of internal communication” in case of war; a Florida member of the House in 1942 spoke of tankers sunk by submarines. A century apart, the same argument: shipping kept inside the land is safe from an enemy at sea.",
+   "voices": [
+    {
+     "text": "ridge",
+     "sec": "senate",
+     "n": [
+      5
+     ],
+     "wer": "Joseph M. White, 1826"
+    },
+    {
+     "text": "war",
+     "sec": "debate",
+     "n": [
+      1
+     ],
+     "wer": "A Representative from Florida, 1942"
+    }
+   ]
+  },
+  {
+   "id": "sanford",
+   "titel": "Sanford, 1937 and 1943",
+   "frage": "Was central Florida against any canal, or against a certain canal?",
+   "note": "In 1937 Sanford's mayor telegraphed that the city was “absolutely opposed” to the sea-level canal for fear for its ground water. In 1943 the town's paper wrote that a lock canal sealed against the limestone would give no reason for opposition.",
+   "voices": [
+    {
+     "text": "aquifer",
+     "sec": "board",
+     "n": [
+      5
+     ],
+     "wer": "Mayors of Sanford and Winter Park, 1937"
+    },
+    {
+     "text": "war",
+     "sec": "money",
+     "n": [
+      2
+     ],
+     "wer": "Sanford Herald, 1943"
+    }
+   ]
   }
  ]
 }
