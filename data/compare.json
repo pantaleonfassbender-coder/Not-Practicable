@@ -50,6 +50,54 @@
      "wer": "C. P. Stone, 1883; The Pensacolian, 1884"
     }
    ]
+  },
+  {
+   "id": "tons",
+   "titel": "How much would pass?",
+   "frage": "How much traffic was waiting for a canal across Florida?",
+   "note": "A London prospectus of 1877 counted 27,000,000 tons “now ready to pass”. Three years later the Army's engineers found about 2,600,000 tons a year passing the Florida Straits, and needed four times that to make a canal pay.",
+   "voices": [
+    {
+     "text": "river",
+     "sec": "routes",
+     "n": [
+      4
+     ],
+     "wer": "Canal prospectus, London 1877"
+    },
+    {
+     "text": "ridge",
+     "sec": "company",
+     "n": [
+      3
+     ],
+     "wer": "Q. A. Gillmore, 1880"
+    }
+   ]
+  },
+  {
+   "id": "lane",
+   "titel": "Water-lane and log road",
+   "frage": "What was the Ocklawaha?",
+   "note": "To the poet in 1875 the river was a lane of pure delight, with logs and raftsmen at its mouth. To the engineers in 1912 it was a channel that carried 80,000 tons of logs a year and nothing above the lakes.",
+   "voices": [
+    {
+     "text": "river",
+     "sec": "lanier",
+     "n": [
+      3
+     ],
+     "wer": "Sidney Lanier, 1875"
+    },
+    {
+     "text": "river",
+     "sec": "trade",
+     "n": [
+      5
+     ],
+     "wer": "Board of Engineers, 1912"
+    }
+   ]
   }
  ]
 }

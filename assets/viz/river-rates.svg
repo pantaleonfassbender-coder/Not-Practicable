@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-labelledby="rr-t rr-d" font-family="var(--serif)">
+<title id="rr-t">Twice the rate: freight to Jacksonville, 1911</title><desc id="rr-d">Cents per hundred pounds to Jacksonville, by class, from Leesburg (by rail only) and from Sanford (on the St. Johns River): First class 68 and 37; Second class 62 and 32; Third class 57 and 29; Fourth class 45 and 24; Fifth class 38 and 19; Sixth class 33 and 16. A box of oranges from Leesburg cost 10 cents by the old Ocklawaha steamers; from Emeralda by the railroad's boat and train it cost 26 cents.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Twice the rate: freight to Jacksonville, 1911</text>
+<a href="#/text/river/trade/3"><text x="16" y="48" font-size="13" fill="var(--ink2)" text-decoration="underline">Cents per hundred pounds, by freight class, as reported by the Army's district engineer. Link to the passage.</text></a>
+<text x="16" y="92" font-size="13" fill="var(--ink)">First class</text>
+<rect x="120" y="70" width="369" height="14" fill="var(--land)"/><text x="495" y="82" font-size="12" fill="var(--ink)">68</text>
+<rect x="120" y="86" width="201" height="14" fill="var(--river)"/><text x="327" y="98" font-size="12" fill="var(--ink)">37</text>
+<text x="16" y="132" font-size="13" fill="var(--ink)">Second class</text>
+<rect x="120" y="110" width="337" height="14" fill="var(--land)"/><text x="463" y="122" font-size="12" fill="var(--ink)">62</text>
+<rect x="120" y="126" width="174" height="14" fill="var(--river)"/><text x="300" y="138" font-size="12" fill="var(--ink)">32</text>
+<text x="16" y="172" font-size="13" fill="var(--ink)">Third class</text>
+<rect x="120" y="150" width="309" height="14" fill="var(--land)"/><text x="435" y="162" font-size="12" fill="var(--ink)">57</text>
+<rect x="120" y="166" width="157" height="14" fill="var(--river)"/><text x="283" y="178" font-size="12" fill="var(--ink)">29</text>
+<text x="16" y="212" font-size="13" fill="var(--ink)">Fourth class</text>
+<rect x="120" y="190" width="244" height="14" fill="var(--land)"/><text x="370" y="202" font-size="12" fill="var(--ink)">45</text>
+<rect x="120" y="206" width="130" height="14" fill="var(--river)"/><text x="256" y="218" font-size="12" fill="var(--ink)">24</text>
+<text x="16" y="252" font-size="13" fill="var(--ink)">Fifth class</text>
+<rect x="120" y="230" width="206" height="14" fill="var(--land)"/><text x="332" y="242" font-size="12" fill="var(--ink)">38</text>
+<rect x="120" y="246" width="103" height="14" fill="var(--river)"/><text x="229" y="258" font-size="12" fill="var(--ink)">19</text>
+<text x="16" y="292" font-size="13" fill="var(--ink)">Sixth class</text>
+<rect x="120" y="270" width="179" height="14" fill="var(--land)"/><text x="305" y="282" font-size="12" fill="var(--ink)">33</text>
+<rect x="120" y="286" width="87" height="14" fill="var(--river)"/><text x="213" y="298" font-size="12" fill="var(--ink)">16</text>
+<rect x="120" y="314" width="12" height="12" fill="var(--land)"/><text x="138" y="325" font-size="12" fill="var(--ink)">Leesburg, at the head of the Ocklawaha: rail only</text><rect x="480" y="314" width="12" height="12" fill="var(--river)"/><text x="498" y="325" font-size="12" fill="var(--ink)">Sanford, on the St. Johns: river steamers</text>
+<text x="640" y="86" font-size="13.5" font-weight="bold" fill="var(--ink)">A box of oranges</text>
+<rect x="640" y="104" width="70" height="24" fill="var(--river)"/><text x="716" y="121" font-size="13" fill="var(--ink)">10 ¢</text>
+<text x="640" y="146" font-size="12" fill="var(--ink2)">by the old steamers</text>
+<rect x="640" y="168" width="182" height="24" fill="var(--land)"/><text x="828" y="185" font-size="13" fill="var(--ink)">26 ¢</text>
+<text x="640" y="210" font-size="12" fill="var(--ink2)">by the railroad's boat and train</text>
+<text x="640" y="250" font-size="12" fill="var(--ink2)">Leesburg or Emeralda to Jacksonville</text>
+</svg>

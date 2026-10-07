@@ -41,6 +41,16 @@ PLATES = {
     "ob1883_fixedfact": ("pdf", Q + "ridge/np/UF00048734_01281.pdf::3", (40, 225, 175, 520)),
     "pens1884_bubble": ("pdf", Q + "ridge/np/AA00083042_00037.pdf::1", (293, 339, 413, 414)),
     "oes1909_routes": ("pdf", Q + "state/verify/UF00075908_03173.pdf::1", (176, 478, 322, 650)),
+    # Modul 2: The water-lane
+    "barker1886_osceola": ("commons", "File:George Barker, Steamer Osceola on the Ocklawaha cph.3b42152.jpg", None),
+    "lanier1875_lane": ("ia", IAP.format("floridaitsscene00lanigoog", 25), (60, 40, 960, 960)),
+    "champney1873_marion": ("commons", "File:Marion sternwheeler 1873 Ocklawaha River Florida.jpg", None),
+    "fenn1870_shingles": ("commons", "File:The Cypress-Shingle Yard, Ocklawaha River, Florida MET 201672.jpg", None),
+    "prospectus1877_title": ("ia", IAP.format("cu31924022881555", 6), (30, 20, 980, 980)),
+    "hart1890_card": ("commonsfull", "File:Hart's Daily Line Schedule Card.jpg", None),
+    "okl1914_rates": ("ia", IAP.format("oklawahariverfla00unit", 7), (40, 150, 990, 470)),
+    "detroit1902_ocklawaha": ("commons", "File:On the Ocklawaha, Florida-LCCN2008679617.jpg", None),
+    "okl1914_proviso": ("ia", IAP.format("oklawahariverfla00unit", 1), (40, 560, 990, 800)),
 }
 
 

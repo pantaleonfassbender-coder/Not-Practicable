@@ -8,16 +8,18 @@
    "quelle": "Senate and House documents of 1826, 1829, 1832, 1855 and 1880; Ocala Banner 1883; The Pensacolian 1884; Ocala Evening Star 1909.",
    "datei": "ridge",
    "zk": "Territory · Ridge · Water · Railroad · Company · Routes"
-  }
- ],
- "planned": [
+  },
   {
    "id": "river",
    "side": "river",
    "kurz": "2 · The water-lane",
-   "warum": "Before the canal, the Ocklawaha was a steamboat river: a poet's “sweetest water-lane in the world” in 1875, a tourist route of the Hart line, and a channel for logs. What the river carried and who worked on it, from the travel books, timetables and the engineers' reports.",
-   "quelle": "Sidney Lanier, Florida (1875/76); Hart line timetable 1890; photographs of 1886 and 1902; House Document 514, 63rd Congress (1914)."
-  },
+   "warum": "In 1875 a poet called the Ocklawaha “the sweetest water-lane in the world” and wrote down who worked on it: raftsmen, the pole-men Dick and Henry, gatherers paid in shoes. A London prospectus promised a canal through it with “not a single engineering difficulty”. By 1910 the river carried mostly logs, and the railroads had its trade.",
+   "quelle": "Sidney Lanier, Florida (1875/76); The Atlantic & Gulf Ship Canal (London 1877); House Document 514, 63rd Congress (1914); photographs of 1886 and 1902.",
+   "datei": "river",
+   "zk": "Lanier · Payne's Landing · Routes · Trade"
+  }
+ ],
+ "planned": [
   {
    "id": "relief",
    "side": "land",
@@ -138,6 +140,27 @@
    "kurz": "The canal companies of 1872 and 1883",
    "warum": "The charters reported in the press for a Florida Ship Canal Company (1872) and for the Florida Ship Canal and Transit Company (1883), the company's own reports and the suits of its employees have not yet been read; only newspaper notices are printed here.",
    "quelle": "Laws of Florida 1872 and 1883; Tallahassee Sentinel 1872; Florida Times-Union 1883."
+  },
+  {
+   "id": "crews",
+   "side": "work",
+   "kurz": "The crews of the river",
+   "warum": "Raftsmen, pole-men, firemen and woodcutters appear only in a visitor's book and as tonnage in the engineers' reports. Their names beyond “Dick” and “Henry”, their pay, and whether the boats' Black hands were free labourers or, before 1865, enslaved, is not in the sources read.",
+   "quelle": "Records of the steamboat lines (Hart Line); census returns of Putnam and Marion counties."
+  },
+  {
+   "id": "removal",
+   "side": "land",
+   "kurz": "Payne's Landing and the war of 1835–1842",
+   "warum": "The treaty of Payne's Landing (1832) and the records of the Second Seminole War are federal documents and in the public domain, but have not yet been read for this apparatus. Until they are, the river's Seminole history appears only in Lanier's account of 1875, told from the government's side.",
+   "quelle": "Treaty with the Seminole at Payne's Landing, 1832 (Statutes at Large, vol. 7); American State Papers, Military Affairs and Indian Affairs."
+  },
+  {
+   "id": "inglis",
+   "side": "river",
+   "kurz": "The dam at Inglis",
+   "warum": "The power dam on the Withlacoochee near Inglis, which made Lake Rousseau and later lay on the canal's western route, has not yet been documented from a source of its time.",
+   "quelle": "To be found."
   }
  ]
 }

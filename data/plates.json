@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain maps, documents and photographs, each with its source.",
- "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov; newspaper pages from the Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov, and from the Internet Archive; newspaper pages from the Florida Digital Newspaper Library, University of Florida; photographs and drawings of the Ocklawaha from the Library of Congress, the Metropolitan Museum of Art and the State Archives of Florida via Wikimedia Commons. All in the public domain or CC0.",
  "plates": [
   {
    "id": "sdoc1826_report",
@@ -71,6 +71,69 @@
    "titel": "Five routes, 1909",
    "caption": "A board of Army engineers at Savannah proposes to survey five routes across northern Florida, a thousand miles in all.",
    "source": "Ocala Evening Star, 21 May 1909, p. 1. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "barker1886_osceola",
+   "side": "river",
+   "titel": "The Osceola in the Great Cypress Pass, 1886",
+   "caption": "The steamer Osceola in the Great Cypress Pass of the Ocklawaha. Photograph by George Barker of Niagara Falls.",
+   "source": "Library of Congress, Prints and Photographs, cph.3b42152, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "lanier1875_lane",
+   "side": "river",
+   "titel": "“The sweetest water-lane in the world”, 1875",
+   "caption": "Page 20 of Lanier's Florida: the lumberman's complaint about the rain, the turn into the Ocklawaha, and Dick the pole-man asleep on the guards.",
+   "source": "Sidney Lanier, Florida (1875/76), p. 20; Internet Archive; public domain."
+  },
+  {
+   "id": "champney1873_marion",
+   "side": "river",
+   "titel": "The Marion on the Ocklawaha, 1873",
+   "caption": "The stern-wheeler Marion on the Ocklawaha, drawn by J. Wells Champney for Edward King's series on the South; Lanier travelled on a boat of that name in 1875.",
+   "source": "Edward King, The Great South (1875), engraving after J. Wells Champney, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "fenn1870_shingles",
+   "side": "work",
+   "titel": "A cypress-shingle yard on the Ocklawaha, 1870",
+   "caption": "Harry Fenn's watercolour of a yard where shingles were split from cypress on the river: the timber work that the steamers carried and the logging that later choked the upper river.",
+   "source": "Harry Fenn, The Cypress-Shingle Yard, Ocklawaha River, Florida, watercolour, 1870; The Metropolitan Museum of Art 201672, via Wikimedia Commons; CC0."
+  },
+  {
+   "id": "prospectus1877_title",
+   "side": "land",
+   "titel": "A prospectus for twenty readers, 1877",
+   "caption": "Title page of the privately printed prospectus of the Atlantic & Gulf Ship Canal across the Peninsula of Florida, London 1877: “Only 20 Copies.”",
+   "source": "The Atlantic & Gulf Ship Canal across the Peninsula of Florida (London 1877), title page; Cornell University Library via Internet Archive; public domain."
+  },
+  {
+   "id": "hart1890_card",
+   "side": "river",
+   "titel": "Hart's Daily Line, 1890",
+   "caption": "Schedule card of Hart's Daily Line, Ocklawaha Navigation Company, Palatka, 14 February 1890, signed by H. L. Hart, general manager: the steamers Okeehumpkee and Astatula between Palatka and Silver Springs. Lanier names a “Colonel Hart, of Pilatka” as the holder of a canal charter.",
+   "source": "State Archives of Florida, Florida Memory, item 148613, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "okl1914_rates",
+   "side": "land",
+   "titel": "Twice the rate, 1911",
+   "caption": "Freight rates to Jacksonville from Leesburg, by rail only, and from Sanford, on the river: “nearly twice the rate”; a box of oranges 10 cents by the old steamers, 26 cents by rail.",
+   "source": "House Document 514, 63rd Congress, 2nd Session (1914), p. 8; Internet Archive; public domain."
+  },
+  {
+   "id": "detroit1902_ocklawaha",
+   "side": "river",
+   "titel": "On the Ocklawaha, about 1902",
+   "caption": "A river steamer on the Ocklawaha, Detroit Publishing Company photograph.",
+   "source": "Library of Congress, Detroit Publishing Company collection, LCCN 2008679617, via Wikimedia Commons; public domain."
+  },
+  {
+   "id": "okl1914_proviso",
+   "side": "capitol",
+   "titel": "On conditions, 1914",
+   "caption": "The Army's engineers recommend locks and a six-foot channel to Lake Dora, provided that local interests give the land free, hold the United States harmless for flooded land, and run a boat line free of the railroads.",
+   "source": "House Document 514, 63rd Congress, 2nd Session (1914), p. 2; Internet Archive; public domain."
   }
  ]
 }

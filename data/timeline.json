@@ -45,8 +45,21 @@
    "d": "1875",
    "side": "river",
    "titel": "“The sweetest water-lane in the world”",
-   "text": "Sidney Lanier describes the Ocklawaha from the deck of a steamboat.",
-   "quelle": "Sidney Lanier, Florida: Its Scenery, Climate, and History (1875/76), p. 20."
+   "text": "Sidney Lanier goes up the Ocklawaha on the steamboat Marion, past raftsmen bringing pine logs down; the pole-men Dick and Henry push the boat off the banks at night.",
+   "quelle": "Sidney Lanier, Florida: Its Scenery, Climate, and History (1875/76), p. 20.",
+   "cite": "#/text/river/lanier/3",
+   "citeLabel": "The water-lane, 1875 [3]",
+   "plate": "lanier1875_lane"
+  },
+  {
+   "d": "1877",
+   "side": "land",
+   "titel": "Twenty copies for London",
+   "text": "A privately printed prospectus seeks money for a ship canal across Florida, by the Suwannee or the Ocklawaha, under a Florida charter of 1874: “not a single engineering difficulty”, 27,000,000 tons “now ready to pass”.",
+   "cite": "#/text/river/routes/3",
+   "citeLabel": "The water-lane, 1877 [3]",
+   "plate": "prospectus1877_title",
+   "quelle": "The Atlantic & Gulf Ship Canal across the Peninsula of Florida (London 1877), pp. 30–31."
   },
   {
    "d": "22 April 1880",
@@ -87,6 +100,26 @@
    "citeLabel": "The ridge, 1909 [1]",
    "plate": "oes1909_routes",
    "quelle": "Ocala Evening Star, 21 May 1909, p. 1."
+  },
+  {
+   "d": "29 December 1911",
+   "side": "land",
+   "titel": "Twice the rate",
+   "text": "The Army's district engineer reports that the railroads control the trade of the lakes at the head of the Ocklawaha and charge Leesburg nearly twice the rates of Sanford on the St. Johns.",
+   "cite": "#/text/river/trade/3",
+   "citeLabel": "The water-lane, 1911 [3]",
+   "plate": "okl1914_rates",
+   "quelle": "House Document 514, 63rd Congress, 2nd Session, pp. 7–8."
+  },
+  {
+   "d": "7 January 1914",
+   "side": "river",
+   "titel": "Locks for the Ocklawaha, on conditions",
+   "text": "The Chief of Engineers' office recommends a six-foot channel with locks to Lake Dora for $733,000, if local interests give the land and run a boat line independent of the railroads. The river carries about 100,000 tons a year, mostly logs.",
+   "cite": "#/text/river/trade/6",
+   "citeLabel": "The water-lane, 1914 [6]",
+   "plate": "okl1914_proviso",
+   "quelle": "House Document 514, 63rd Congress, 2nd Session, pp. 2, 10."
   },
   {
    "d": "27 May 1933",
