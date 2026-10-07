@@ -17,16 +17,18 @@
    "quelle": "Sidney Lanier, Florida (1875/76); The Atlantic & Gulf Ship Canal (London 1877); House Document 514, 63rd Congress (1914); photographs of 1886 and 1902.",
    "datei": "river",
    "zk": "Lanier · Payne's Landing · Routes · Trade"
-  }
- ],
- "planned": [
+  },
   {
    "id": "relief",
    "side": "land",
    "kurz": "3 · Work for the relief rolls",
-   "warum": "In 1933 the Florida legislature created a Ship Canal Authority and asked Washington for a canal that would “give employment to a vast amount of human labor”. The six counties of the canal district voted bonds to buy the right of way, in an election open only to property owners who had paid their poll tax.",
-   "quelle": "Documentary History of the Florida Canal (Ship Canal Authority, printed as Senate Document 275, 74th Congress, 1936); Congressional Record 1936; House hearings on H.R. 6150 (1937); Levy County Journal 1933."
-  },
+   "warum": "In 1933 Florida created a canal authority that the State would not pay for. Refused as a loan, the canal was begun in 1935 with relief money. The counties bought the land, in a bond election open only to property owners who had paid the poll tax; the appraiser said many of those on the land were Black.",
+   "quelle": "Documentary History of the Florida Canal (Senate Document 275, 1936); House hearings on H.R. 6150 (1937); Levy County Journal 1933.",
+   "datei": "relief",
+   "zk": "Authority · Relief · Bonds · Land"
+  }
+ ],
+ "planned": [
   {
    "id": "camp",
    "side": "work",
@@ -82,7 +84,7 @@
    "id": "families",
    "side": "land",
    "kurz": "The families on the route",
-   "warum": "The sources give acreages (of the right of way in 1936, of the Rodman pool, of lawsuits) but not the number or names of the families who lost homes. County land and court records would be needed.",
+   "warum": "The sources give acreages and prices (of the right-of-way in 1936, of the Rodman pool, of lawsuits) and one appraiser's remark that many of those on the land in Marion County were Black, but not the number or names of the families who lost land or homes. County land and court records would be needed.",
    "quelle": "—"
   },
   {
@@ -161,6 +163,20 @@
    "kurz": "The dam at Inglis",
    "warum": "The power dam on the Withlacoochee near Inglis, which made Lake Rousseau and later lay on the canal's western route, has not yet been documented from a source of its time.",
    "quelle": "To be found."
+  },
+  {
+   "id": "laws1933",
+   "side": "land",
+   "kurz": "The acts of 1933 and 1935",
+   "warum": "Florida's act creating the Ship Canal Authority (1933) and the act creating the navigation district and its bond election (1935) are known here only by their titles and from congressional testimony; the Laws of Florida have not yet been read in the original.",
+   "quelle": "Laws of Florida 1933 and 1935."
+  },
+  {
+   "id": "excluded",
+   "side": "land",
+   "kurz": "Who could not vote on the bonds",
+   "warum": "How many adults in the six counties were kept from the bond election by the poll tax and the property requirement, and how many of them were Black, is not counted in any source read so far.",
+   "quelle": "County voter registration and tax rolls, 1935; census of 1930 and 1940."
   }
  ]
 }

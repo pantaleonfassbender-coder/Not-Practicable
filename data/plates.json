@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain maps, documents and photographs, each with its source.",
- "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov, and from the Internet Archive; newspaper pages from the Florida Digital Newspaper Library, University of Florida; photographs and drawings of the Ocklawaha from the Library of Congress, the Metropolitan Museum of Art and the State Archives of Florida via Wikimedia Commons. All in the public domain or CC0.",
+ "credit": "Pages and maps of congressional documents from the U.S. Congressional Serial Set, scans of govinfo.gov, and from the Internet Archive; newspaper pages from the Florida Digital Newspaper Library and congressional printings from the University of Florida Digital Collections; photographs and drawings of the Ocklawaha from the Library of Congress, the Metropolitan Museum of Art and the State Archives of Florida via Wikimedia Commons. All in the public domain or CC0.",
  "plates": [
   {
    "id": "sdoc1826_report",
@@ -134,6 +134,48 @@
    "titel": "On conditions, 1914",
    "caption": "The Army's engineers recommend locks and a six-foot channel to Lake Dora, provided that local interests give the land free, hold the United States harmless for flooded land, and run a boat line free of the railroads.",
    "source": "House Document 514, 63rd Congress, 2nd Session (1914), p. 2; Internet Archive; public domain."
+  },
+  {
+   "id": "sd1936_act",
+   "side": "land",
+   "titel": "The canal authority, 1933",
+   "caption": "The title of Florida's act of 12 May 1933 creating the Ship Canal Authority (none of the State's general revenues to be used; counties may condemn land and levy taxes), the directors, and the Legislature's memorial to the President.",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), p. 82; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "lcj1933_authority",
+   "side": "land",
+   "titel": "The first meeting, June 1933",
+   "caption": "“Senator Turner on Ship Canal Authority”: the authority's organization meeting at Tallahassee, and an estimate of $114,000,000 to $160,000,000.",
+   "source": "Levy County Journal (Bronson), 8 June 1933, p. 1; Florida Digital Newspaper Library, University of Florida; no copyright renewal found."
+  },
+  {
+   "id": "sd1936_allotment",
+   "side": "capitol",
+   "titel": "Five million dollars for relief, 30 August 1935",
+   "caption": "The President's allotment from the Emergency Relief Appropriation Act of 1935: “To provide work relief and increase employment”, with the schedule of works.",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), p. 155; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "sd1936_votes",
+   "side": "land",
+   "titel": "Only freeholders, 1935",
+   "caption": "Representative Sears on the bond election of 22 October 1935: “At that election only freeholders could vote”, and the vote in each of the six counties.",
+   "source": "Documentary History of the Florida Canal, Senate Document 275, 74th Congress (1936), p. 382, detail; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "h1937_taylor",
+   "side": "land",
+   "titel": "“$8 to $10 an acre”, 1937",
+   "caption": "The appraiser James A. Taylor before the House Committee on Rivers and Harbors: the price of the land, and “A great many of them are Negroes”.",
+   "source": "Hearings on H.R. 6150, House Committee on Rivers and Harbors (1937), p. 115; University of Florida Digital Collections; public domain."
+  },
+  {
+   "id": "hd1937_rightofway",
+   "side": "land",
+   "titel": "Status of right of way acquisition, June 1936",
+   "caption": "The Army engineers' map of the western part of the route, from Ocala, Camp Roosevelt and Santos past Dunnellon to the Gulf near Inglis and Yankeetown, with the land under option, in condemnation and still required: 21,633 of 81,492 acres in possession.",
+   "source": "House Document 194, 75th Congress, 1st Session (1937), map sheet 1 (U.S. Engineer Office, Ocala, June 1936); U.S. Congressional Serial Set, scan of govinfo.gov; public domain."
   }
  ]
 }

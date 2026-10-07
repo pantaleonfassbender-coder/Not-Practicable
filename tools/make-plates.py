@@ -51,6 +51,13 @@ PLATES = {
     "okl1914_rates": ("ia", IAP.format("oklawahariverfla00unit", 7), (40, 150, 990, 470)),
     "detroit1902_ocklawaha": ("commons", "File:On the Ocklawaha, Florida-LCCN2008679617.jpg", None),
     "okl1914_proviso": ("ia", IAP.format("oklawahariverfla00unit", 1), (40, 560, 990, 800)),
+    # Modul 3: Work for the relief rolls
+    "sd1936_act": ("ufdc", "UF00055183/00001/gray0935-1.jp2", (40, 30, 960, 700)),
+    "lcj1933_authority": ("local", Q + "state/verify/lcj1933_col.png", None),
+    "sd1936_allotment": ("ufdc", "UF00055183/00001/gray0971-2.jp2", (40, 30, 960, 800)),
+    "sd1936_votes": ("ufdc", "UF00055183/00001/gray1085-1.jp2", (60, 655, 960, 945)),
+    "h1937_taylor": ("ufdc", "UF00018663/00001/00119.jp2", (60, 60, 960, 560)),
+    "hd1937_rightofway": ("local", Q + "relief/hd194_rightofway.png", (20, 230, 990, 960)),   # H. Doc. 75-194, PDF-S. 60
 }
 
 

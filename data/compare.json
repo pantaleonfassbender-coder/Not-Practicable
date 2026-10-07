@@ -98,6 +98,54 @@
      "wer": "Board of Engineers, 1912"
     }
    ]
+  },
+  {
+   "id": "condition",
+   "titel": "The land as the condition",
+   "frage": "Who was to give the land for a waterway?",
+   "note": "In 1914 the engineers recommended locks on the Ocklawaha only if local interests gave the land free and held the United States harmless for flooding. In 1935 the administration would go on with the canal only if the six counties gave the right-of-way; they bonded their taxpayers for it.",
+   "voices": [
+    {
+     "text": "river",
+     "sec": "trade",
+     "n": [
+      6
+     ],
+     "wer": "Chief of Engineers, 1914"
+    },
+    {
+     "text": "relief",
+     "sec": "bonds",
+     "n": [
+      2
+     ],
+     "wer": "Representative W. J. Sears, 1936"
+    }
+   ]
+  },
+  {
+   "id": "asked",
+   "titel": "Who was asked, who was described",
+   "frage": "Whose voice decided on the land?",
+   "note": "The bond election was open to freeholders who had paid their poll tax; their vote was counted county by county. The people on the land in Marion County appear in the record only through the appraiser who priced it.",
+   "voices": [
+    {
+     "text": "relief",
+     "sec": "bonds",
+     "n": [
+      2
+     ],
+     "wer": "Representative W. J. Sears, 1936"
+    },
+    {
+     "text": "relief",
+     "sec": "land",
+     "n": [
+      2
+     ],
+     "wer": "James A. Taylor, appraiser, 1937"
+    }
+   ]
   }
  ]
 }

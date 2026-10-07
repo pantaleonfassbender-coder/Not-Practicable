@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" role="img" aria-labelledby="rl-t rl-d" font-family="var(--serif)">
+<title id="rl-t">The right-of-way, June 1936</title><desc id="rl-d">81,492 acres required for the western part of the route: Bought on options 12,003 acres; In condemnation 9,630 acres; Condemnation requested 6,196 acres; Other land still required 53,663 acres. In possession: 21,633 acres, 26.6 per cent.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">The right-of-way, June 1936</text>
+<a href="#/text/relief/land/3"><text x="16" y="48" font-size="13" fill="var(--ink2)" text-decoration="underline">81,492 acres on the Army engineers’ map of the route west of Ocala, eight months after the bond vote. Link to the passage.</text></a>
+<rect x="16.0" y="70" width="127.8" height="44" fill="var(--land)" stroke="var(--panel)"/>
+<rect x="143.8" y="70" width="102.6" height="44" fill="var(--work)" stroke="var(--panel)"/>
+<rect x="246.4" y="70" width="66.0" height="44" fill="var(--survey)" stroke="var(--panel)"/>
+<rect x="312.4" y="70" width="571.6" height="44" fill="var(--line)" stroke="var(--panel)"/>
+<rect x="16" y="140" width="12" height="12" fill="var(--land)"/><text x="34" y="151" font-size="12.5" fill="var(--ink)">Bought on options: 12,003 acres (14.7 %)</text>
+<rect x="16" y="162" width="12" height="12" fill="var(--work)"/><text x="34" y="173" font-size="12.5" fill="var(--ink)">In condemnation: 9,630 acres (11.8 %)</text>
+<rect x="16" y="184" width="12" height="12" fill="var(--survey)"/><text x="34" y="195" font-size="12.5" fill="var(--ink)">Condemnation requested: 6,196 acres (7.6 %)</text>
+<rect x="16" y="206" width="12" height="12" fill="var(--line)"/><text x="34" y="217" font-size="12.5" fill="var(--ink)">Other land still required: 53,663 acres (65.9 %)</text>
+<text x="470" y="151" font-size="12.5" fill="var(--ink2)">In possession (options and condemnation): 21,633 acres.</text>
+<text x="470" y="173" font-size="12.5" fill="var(--ink2)">Owners and their names: not on the map.</text>
+</svg>

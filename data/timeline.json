@@ -122,11 +122,43 @@
    "quelle": "House Document 514, 63rd Congress, 2nd Session, pp. 2, 10."
   },
   {
+   "d": "12 May 1933",
+   "side": "land",
+   "titel": "A canal authority the State will not pay for",
+   "text": "Florida creates the Ship Canal Authority; none of the State's general revenues may be used, but counties may condemn land for the canal and levy taxes for it.",
+   "cite": "#/text/relief/authority/1",
+   "citeLabel": "Work for the relief rolls, 1933 [1]",
+   "plate": "sd1936_act",
+   "quelle": "Documentary History of the Florida Canal (1936), pp. 81–82."
+  },
+  {
    "d": "27 May 1933",
    "side": "land",
    "titel": "A memorial for work",
    "text": "The Florida legislature asks Congress for the canal, which would “give employment to a vast amount of human labor”.",
-   "quelle": "Joint Memorial No. 11 (1933), in Documentary History of the Florida Canal (Senate Document 275, 74th Congress, 1936), p. 82."
+   "quelle": "Joint Memorial No. 11 (1933), in Documentary History of the Florida Canal (Senate Document 275, 74th Congress, 1936), p. 82.",
+   "cite": "#/text/relief/authority/3",
+   "citeLabel": "Work for the relief rolls, 1933 [3]",
+   "plate": "sd1936_act"
+  },
+  {
+   "d": "21 December 1934",
+   "side": "capitol",
+   "titel": "“Not self-liquidating”",
+   "text": "The Public Works Administration's deputy administrator recommends refusing the canal authority's loan; the Administrator disapproves it on 29 January 1935.",
+   "cite": "#/text/relief/loan/1",
+   "citeLabel": "Work for the relief rolls, 1934 [1]",
+   "quelle": "Documentary History of the Florida Canal (1936), p. 123."
+  },
+  {
+   "d": "30 August 1935",
+   "side": "capitol",
+   "titel": "Five million dollars for relief",
+   "text": "The President allots $5,000,000 from the Emergency Relief Appropriation Act to the Corps of Engineers for the canal, “to provide work relief and increase employment”; 73 per cent is for wages.",
+   "cite": "#/text/relief/loan/2",
+   "citeLabel": "Work for the relief rolls, 1935 [2]",
+   "plate": "sd1936_allotment",
+   "quelle": "Documentary History of the Florida Canal (1936), p. 155."
   },
   {
    "d": "19 September 1935",
@@ -134,6 +166,16 @@
    "titel": "The first blast",
    "text": "The President sets off the first blast on the canal near Ocala “at 1 o'clock on the afternoon of September 19, 1935”. Construction under the Chief of Engineers had begun on 3 September.",
    "quelle": "Documentary History of the Florida Canal (1936), pp. 156–157; Congressional Record, 17 March 1936, p. 3839."
+  },
+  {
+   "d": "22 October 1935",
+   "side": "land",
+   "titel": "Only freeholders vote",
+   "text": "The six counties of the canal district vote $1,500,000 in bonds for the right-of-way, 15,435 to 590. Only registered property owners who have paid the poll tax may vote.",
+   "cite": "#/text/relief/bonds/2",
+   "citeLabel": "Work for the relief rolls, 1935 [2]",
+   "plate": "sd1936_votes",
+   "quelle": "Documentary History of the Florida Canal (1936), pp. 156, 382."
   },
   {
    "d": "17 March 1936",

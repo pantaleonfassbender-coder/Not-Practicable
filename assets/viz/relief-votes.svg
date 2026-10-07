@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-labelledby="rv-t rv-d" font-family="var(--serif)">
+<title id="rv-t">Who voted for the land, 22 October 1935</title><desc id="rv-d">Votes for and against $1,500,000 in bonds for the canal's right-of-way, by county: Duval 10,039 for, 329 against; Marion 2,115 for, 46 against; Putnam 1,720 for, 100 against; Levy 603 for, 31 against; Citrus 485 for, 37 against; Clay 473 for, 47 against. In all 15,435 for and 590 against. Only freeholders, that is registered property owners who had paid the poll tax, could vote.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Who voted for the land, 22 October 1935</text>
+<a href="#/text/relief/bonds/2"><text x="16" y="48" font-size="13" fill="var(--ink2)" text-decoration="underline">Votes on the right-of-way bonds, by county, as given in Congress in April 1936. Link to the passage.</text></a>
+<text x="16" y="91" font-size="13.5" fill="var(--ink)">Duval</text>
+<rect x="100" y="72" width="535.4" height="26" fill="var(--land)"/><rect x="635.4" y="72" width="17.5" height="26" fill="var(--work)"/>
+<text x="661" y="90" font-size="12.5" fill="var(--ink)">10,039 for · 329 against</text>
+<text x="16" y="129" font-size="13.5" fill="var(--ink)">Marion</text>
+<rect x="100" y="110" width="112.8" height="26" fill="var(--land)"/><rect x="212.8" y="110" width="2.5" height="26" fill="var(--work)"/>
+<text x="223" y="128" font-size="12.5" fill="var(--ink)">2,115 for · 46 against</text>
+<text x="16" y="167" font-size="13.5" fill="var(--ink)">Putnam</text>
+<rect x="100" y="148" width="91.7" height="26" fill="var(--land)"/><rect x="191.7" y="148" width="5.3" height="26" fill="var(--work)"/>
+<text x="205" y="166" font-size="12.5" fill="var(--ink)">1,720 for · 100 against</text>
+<text x="16" y="205" font-size="13.5" fill="var(--ink)">Levy</text>
+<rect x="100" y="186" width="32.2" height="26" fill="var(--land)"/><rect x="132.2" y="186" width="2.0" height="26" fill="var(--work)"/>
+<text x="142" y="204" font-size="12.5" fill="var(--ink)">603 for · 31 against</text>
+<text x="16" y="243" font-size="13.5" fill="var(--ink)">Citrus</text>
+<rect x="100" y="224" width="25.9" height="26" fill="var(--land)"/><rect x="125.9" y="224" width="2.0" height="26" fill="var(--work)"/>
+<text x="136" y="242" font-size="12.5" fill="var(--ink)">485 for · 37 against</text>
+<text x="16" y="281" font-size="13.5" fill="var(--ink)">Clay</text>
+<rect x="100" y="262" width="25.2" height="26" fill="var(--land)"/><rect x="125.2" y="262" width="2.5" height="26" fill="var(--work)"/>
+<text x="136" y="280" font-size="12.5" fill="var(--ink)">473 for · 47 against</text>
+<text x="16" y="318" font-size="13" fill="var(--ink)">All six counties: 15,435 for, 590 against (the compilation says “27 to 1”; the figures give about 26 to 1).</text>
+<rect x="16" y="334" width="12" height="12" fill="var(--land)"/><text x="34" y="345" font-size="12" fill="var(--ink)">for</text><rect x="80" y="334" width="12" height="12" fill="var(--work)"/><text x="98" y="345" font-size="12" fill="var(--ink)">against</text><text x="170" y="345" font-size="12" fill="var(--ink2)">Not shown, because not counted anywhere: those who could not vote for want of property or of a paid poll tax.</text>
+</svg>
