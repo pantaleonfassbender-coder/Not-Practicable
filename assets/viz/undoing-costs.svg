@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="uc-t uc-d" font-family="var(--serif)">
+<title id="uc-t">What would it cost? Estimates, 1880–1985</title><desc id="uc-d">1880 Gillmore: ship canal: $50.0 million; 1883 Canal company: tidewater canal: $46.0 million; 1933 Canal authority: estimate, upper: $160.0 million; 1937 Board of Engineers: sea-level canal: $263.8 million; 1937 Chief of Engineers: sea-level canal: $197.9 million; 1941 Andrews and Pepper: sea-level canal: $160.0 million; 1942 Act: authorized for the barge canal and works: $93.0 million; 1964 Board of Conservation: barge canal, federal: $157.9 million; 1971 Nixon: barge canal, total: $180.0 million; 1985 Carr: to complete, 1985 prices: $605.0 million. Not adjusted for inflation.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">What would it cost? Estimates, 1880–1985</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Millions of dollars, in the money of each year, not adjusted for inflation. Each label links to its passage.</text>
+<a href="#/text/ridge/company/3"><text x="16" y="87" font-size="12.5" fill="var(--ink)" text-decoration="underline">1880 · Gillmore: ship canal</text></a>
+<rect x="380" y="73" width="34" height="20" fill="var(--survey)"/><text x="420" y="88" font-size="12" fill="var(--ink)">50.0</text>
+<a href="#/text/ridge/company/5"><text x="16" y="127" font-size="12.5" fill="var(--ink)" text-decoration="underline">1883 · Canal company: tidewater canal</text></a>
+<rect x="380" y="113" width="31" height="20" fill="var(--land)"/><text x="417" y="128" font-size="12" fill="var(--ink)">46.0</text>
+<a href="#/text/relief/authority/4"><text x="16" y="167" font-size="12.5" fill="var(--ink)" text-decoration="underline">1933 · Canal authority: estimate, upper</text></a>
+<rect x="380" y="153" width="108" height="20" fill="var(--land)"/><text x="494" y="168" font-size="12" fill="var(--ink)">160.0</text>
+<a href="#/text/aquifer/board/1"><text x="16" y="207" font-size="12.5" fill="var(--ink)" text-decoration="underline">1937 · Board of Engineers: sea-level canal</text></a>
+<rect x="380" y="193" width="179" height="20" fill="var(--survey)"/><text x="565" y="208" font-size="12" fill="var(--ink)">263.8</text>
+<a href="#/text/aquifer/board/4"><text x="16" y="247" font-size="12.5" fill="var(--ink)" text-decoration="underline">1937 · Chief of Engineers: sea-level canal</text></a>
+<rect x="380" y="233" width="134" height="20" fill="var(--survey)"/><text x="520" y="248" font-size="12" fill="var(--ink)">197.9</text>
+<a href="#/text/war/defence/1"><text x="16" y="287" font-size="12.5" fill="var(--ink)" text-decoration="underline">1941 · Andrews and Pepper: sea-level canal</text></a>
+<rect x="380" y="273" width="108" height="20" fill="var(--capitol)"/><text x="494" y="288" font-size="12" fill="var(--ink)">160.0</text>
+<a href="#/text/war/act/1"><text x="16" y="327" font-size="12.5" fill="var(--ink)" text-decoration="underline">1942 · Act: authorized for the barge canal and works</text></a>
+<rect x="380" y="313" width="63" height="20" fill="var(--capitol)"/><text x="449" y="328" font-size="12" fill="var(--ink)">93.0</text>
+<a href="#/text/rodman/ground/3"><text x="16" y="367" font-size="12.5" fill="var(--ink)" text-decoration="underline">1964 · Board of Conservation: barge canal, federal</text></a>
+<rect x="380" y="353" width="107" height="20" fill="var(--water)"/><text x="493" y="368" font-size="12" fill="var(--ink)">157.9</text>
+<a href="#/text/rodman/halt/2"><text x="16" y="407" font-size="12.5" fill="var(--ink)" text-decoration="underline">1971 · Nixon: barge canal, total</text></a>
+<rect x="380" y="393" width="122" height="20" fill="var(--river)"/><text x="508" y="408" font-size="12" fill="var(--ink)">180.0</text>
+<a href="#/text/undoing/palatka/4"><text x="16" y="447" font-size="12.5" fill="var(--ink)" text-decoration="underline">1985 · Carr: to complete, 1985 prices</text></a>
+<rect x="380" y="433" width="410" height="20" fill="var(--river)"/><text x="796" y="448" font-size="12" fill="var(--ink)">605.0</text>
+<text x="16" y="508" font-size="12" fill="var(--ink2)">Ship canals and barge canals, federal and total costs are mixed here as the sources give them; the comparison shows how the figure moved, not one canal’s price.</text>
+</svg>

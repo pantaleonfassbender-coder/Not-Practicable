@@ -106,6 +106,18 @@ PLATES = {
     "ca5_1974_ocklawaha": ("pdf", Q + "rodman/courts/f2d489_567.pdf::4", None),
     "ca5_1974_nixon": ("pdf", Q + "rodman/courts/f2d489_567.pdf::5", None),
     "hrept1970_lake": ("pdf", SER + "12884_08_00-035-1701-0000.pdf::1", None),
+    # Modul 8: Undoing the canal
+    "h1985_tax": ("local", Q + "undoing/micro_IA41152634_0813_n96.jpg", (100, 40, 940, 960)),
+    "restudy1976_p13": ("ufdc", "NF00000163/00001/00018.jp2", None),
+    "carter1977": ("local", Q + "undoing/micro_IA41153362_0079_n13.jpg", (20, 440, 520, 800)),
+    "h1985_graham": ("local", Q + "undoing/micro_IA41152634_0813_n31.jpg", (100, 40, 920, 960)),
+    "h1985_carr": ("local", Q + "undoing/micro_IA41152634_0813_n146.jpg", (100, 40, 920, 960)),
+    "h1985_carr_statement": ("local", Q + "undoing/micro_IA41152634_0813_n175.jpg", (100, 40, 920, 760)),
+    "h1985_lee": ("local", Q + "undoing/micro_IA41152634_0813_n153.jpg", (100, 40, 920, 960)),
+    "h1985_mainer": ("local", Q + "undoing/micro_IA41152634_0813_n233.jpg", (100, 40, 920, 960)),
+    "h1985_mainer_owners": ("local", Q + "undoing/micro_IA41152634_0813_n234.jpg", (100, 40, 920, 960)),
+    "pl1990_a": ("pdf", Q + "undoing/stat104.pdf::41", None),
+    "pl1990_b": ("pdf", Q + "undoing/stat104.pdf::42", None),
 }
 
 

@@ -62,17 +62,18 @@
    "quelle": "Florida Geological Survey 1956; Public Papers 1964; Board of Conservation 1964; newspapers 1909, 1912, 1962; USGS 1973; FWPCA 1967; court decisions 1974 and 1975; House Report 91-1701.",
    "datei": "rodman",
    "zk": "Revival · Palatka · Inglis · Rodman · Halt"
-  }
- ],
- "planned": [
+  },
   {
    "id": "undoing",
    "side": "land",
    "kurz": "8 · Undoing the canal",
-   "warum": "The counties had paid a canal tax from 1936 to 1971. A President called the project “ill-advised” in 1977; in 1984 the House kept it alive by 204 to 201; landowners sued for the return of their land. The act of 1990 ended it and set aside a corridor of at least 300 yards.",
-   "quelle": "The President's Environmental Program 1977; House hearing at Palatka, 10 June 1985; Laws of Florida 1979; Public Law 101-640 (1990)."
+   "warum": "$9.3 million in county taxes; an Army restudy counting a river ecosystem as lost; Carter's “ill-advised project”; at Palatka in 1985 a governor's “we do not want this canal. Period.” and Marjorie Carr's “the notorious Ms. Carr”; owners who could not get their land back; and in 1990 the end, a greenway and $32 million for the counties.",
+   "quelle": "House hearing, Palatka, 1985; Corps restudy 1976; The President's Environmental Program 1977; Public Law 101-640 (1990).",
+   "datei": "undoing",
+   "zk": "Tax · Restudy · Palatka · Land · End"
   }
  ],
+ "planned": [],
  "missing": [
   {
    "id": "segregation",
@@ -234,6 +235,20 @@
    "kurz": "The Council on Environmental Quality's advice (1971)",
    "warum": "The recommendation of January 1971 on which the President halted the canal is known here only from his statement and the court's summary.",
    "quelle": "Council on Environmental Quality, January 1971; annual report 1971."
+  },
+  {
+   "id": "carr1989",
+   "side": "river",
+   "kurz": "Marjorie Carr's oral history (1989)",
+   "warum": "The Samuel Proctor Oral History Program of the University of Florida holds an interview with Marjorie Carr of 24 April 1989 (transcript online in the University of Florida Digital Collections, UF00024777). It is published under a Creative Commons Attribution Non-Commercial licence, not in the public domain; no audio was found online. It is named here, not printed.",
+   "quelle": "University of Florida Digital Collections UF00024777; Samuel Proctor Oral History Program."
+  },
+  {
+   "id": "laws1979",
+   "side": "land",
+   "kurz": "Florida's act of 1979 on Lake Rousseau",
+   "warum": "Chapter 79-167, Laws of Florida, on the state lands around Lake Rousseau and the canal right-of-way to the Withlacoochee, is available only as a text file, without page image; not yet printed.",
+   "quelle": "Laws of Florida 1979, ch. 79-167 (UFDC UF00052140)."
   }
  ]
 }

@@ -360,25 +360,64 @@
    "plate": "ca5_1974_nixon"
   },
   {
+   "d": "August 1976",
+   "side": "river",
+   "titel": "The restudy",
+   "text": "The Corps of Engineers counts the loss of the Oklawaha River Basin ecosystem and 25,800 acres of productive forest under the authorized plan.",
+   "cite": "#/text/undoing/restudy/1",
+   "citeLabel": "Undoing the canal, 1976 [1]",
+   "plate": "restudy1976_p13",
+   "quelle": "Cross Florida Barge Canal Restudy Report, Summary (1976), p. 13."
+  },
+  {
    "d": "23 May 1977",
    "side": "capitol",
    "titel": "“Ill-advised”",
    "text": "President Carter asks Congress to deauthorize the canal and “put an end to the long controversy over this ill-advised project.”",
-   "quelle": "The President's Environmental Program, 1977, p. M-10."
+   "quelle": "The President's Environmental Program, 1977, p. M-10.",
+   "cite": "#/text/undoing/restudy/2",
+   "citeLabel": "Undoing the canal, 1977 [2]",
+   "plate": "carter1977"
   },
   {
    "d": "28 June 1984",
    "side": "capitol",
    "titel": "204 to 201",
    "text": "The House of Representatives votes, 204 to 201, not to deauthorize the canal, as a witness recalls at the hearing in Palatka a year later.",
-   "quelle": "House hearing, Cross-Florida Barge Canal, Palatka, 10 June 1985, p. 147."
+   "quelle": "House hearing, Cross-Florida Barge Canal, Palatka, 10 June 1985, p. 147.",
+   "cite": "#/text/undoing/palatka/6",
+   "citeLabel": "Undoing the canal, 1985 [6]",
+   "plate": "h1985_lee"
+  },
+  {
+   "d": "18 April 1985",
+   "side": "land",
+   "titel": "The land stays taken",
+   "text": "The Supreme Court of Florida rejects nine owners' suits to reacquire land condemned for the canal.",
+   "cite": "#/text/undoing/land/2",
+   "citeLabel": "Undoing the canal, 1985 [2]",
+   "plate": "h1985_mainer",
+   "quelle": "Mainer v. Canal Authority (1985), printed in the House hearing of 1985, pp. 226–227."
+  },
+  {
+   "d": "10 June 1985",
+   "side": "river",
+   "titel": "Hearing at Palatka",
+   "text": "Governor Graham: “we do not want this canal. Period.” Marjorie Carr tells how the Florida Defenders of the Environment organized against it.",
+   "cite": "#/text/undoing/palatka/3",
+   "citeLabel": "Undoing the canal, 1985 [3]",
+   "plate": "h1985_carr",
+   "quelle": "House hearing, Cross-Florida Barge Canal, Palatka, 10 June 1985, pp. 26, 139–140."
   },
   {
    "d": "28 November 1990",
    "side": "land",
    "titel": "The end, and a greenway",
    "text": "Congress provides that the canal be deauthorized once Florida's Governor and Cabinet so resolve, and that a greenway corridor “not be less than 300 yards wide”.",
-   "quelle": "Public Law 101-640, § 402, 104 Stat. 4644–4645."
+   "quelle": "Public Law 101-640, § 402, 104 Stat. 4644–4645.",
+   "cite": "#/text/undoing/end/1",
+   "citeLabel": "Undoing the canal, 1990 [1]",
+   "plate": "pl1990_a"
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 The canal across Florida, 1826–1990: a documentary apparatus in English, built from public-domain sources read against the page images. From the Army survey of 1829, which found a ship channel through the peninsula “not practicable”, to the ship canal begun near Ocala in 1935 with men from the relief rolls, the barge canal authorized for the war in 1942, the Rodman dam and the halt of 1971, and the act of 1990 that ended the project and left a greenway.
 
-**Status:** printed: module 1 *The ridge* (1826–1909), module 2 *The water-lane* (1832–1914), module 3 *Work for the relief rolls* (1933–1937), module 4 *Camp Roosevelt* (1935–1936), module 5 *The water under Florida* (1934–1939), module 6 *A canal for the war* (1941–1945) and module 7 *Rodman* (1909–1974, with Inglis and Lake Rousseau), 119 passages, 69 plates, 9 graphics, 14 comparisons. Planned: 8 *Undoing the canal* (1971–1990). The source survey is in the project folder (`KONZEPT.md`, `quellen/`, not in this repository).
+**Status:** all eight modules printed: 1 *The ridge* (1826–1909), 2 *The water-lane* (1832–1914), 3 *Work for the relief rolls* (1933–1937), 4 *Camp Roosevelt* (1935–1936), 5 *The water under Florida* (1934–1939), 6 *A canal for the war* (1941–1945), 7 *Rodman* (1909–1974, with Inglis and Lake Rousseau), 8 *Undoing the canal* (1971–1990): 132 passages, 80 plates, 10 graphics, 17 comparisons, a timeline of 42 stations, and 25 items examined and not included. The source survey is in the project folder (`KONZEPT.md`, `quellen/`, not in this repository).
 
 **Companion game (in preparation):** *Relief and Navigation*.
 

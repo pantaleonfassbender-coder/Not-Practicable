@@ -364,6 +364,94 @@
      "wer": "U.S. Court of Appeals, 1974"
     }
    ]
+  },
+  {
+   "id": "memorials",
+   "titel": "Florida asks, 1933 and 1985",
+   "frage": "What did Florida's legislature ask of Washington?",
+   "note": "In 1933 a joint memorial asked the President for a canal that would employ “a vast amount of human labor”. In 1985 a memorial, passed 105 to 5 and 33 to 3, asked Congress to deauthorize it.",
+   "voices": [
+    {
+     "text": "relief",
+     "sec": "authority",
+     "n": [
+      3
+     ],
+     "wer": "Florida Legislature, 1933"
+    },
+    {
+     "text": "undoing",
+     "sec": "palatka",
+     "n": [
+      1
+     ],
+     "wer": "Governor Bob Graham, 1985"
+    }
+   ]
+  },
+  {
+   "id": "counties",
+   "titel": "The counties pay, the counties are repaid",
+   "frage": "Who carried the cost of the right-of-way, and who got it back?",
+   "note": "Only property owners voted the bonds of 1935; the counties then taxed everyone for thirty-five years. In 1990 the law repaid the six counties $32 million. The owners whose land was condemned did not get it back.",
+   "voices": [
+    {
+     "text": "relief",
+     "sec": "bonds",
+     "n": [
+      2
+     ],
+     "wer": "Representative W. J. Sears, 1936"
+    },
+    {
+     "text": "undoing",
+     "sec": "tax",
+     "n": [
+      1
+     ],
+     "wer": "Hearing, 1985"
+    },
+    {
+     "text": "undoing",
+     "sec": "end",
+     "n": [
+      2
+     ],
+     "wer": "Public Law 101-640, 1990"
+    }
+   ]
+  },
+  {
+   "id": "ratio",
+   "titel": "Does it pay? 1880, 1937, 1985",
+   "frage": "Was the canal worth its cost?",
+   "note": "Gillmore in 1880 thought a national canal need not pay. Markham in 1937 found benefits $100,000 a year above charges, and more if wages counted as relief. In 1985 the opponents put the ratio at fifty cents on the dollar or less.",
+   "voices": [
+    {
+     "text": "ridge",
+     "sec": "company",
+     "n": [
+      2
+     ],
+     "wer": "Q. A. Gillmore, 1880"
+    },
+    {
+     "text": "aquifer",
+     "sec": "board",
+     "n": [
+      4
+     ],
+     "wer": "E. M. Markham, 1937"
+    },
+    {
+     "text": "undoing",
+     "sec": "palatka",
+     "n": [
+      5
+     ],
+     "wer": "John H. Kaufmann, 1985"
+    }
+   ]
   }
  ]
 }
