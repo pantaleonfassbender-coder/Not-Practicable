@@ -91,6 +91,21 @@ PLATES = {
     "sh1942_duration": ("local", Q + "war/np/sh1942b.png", None),
     "sh1943_sanford": ("local", Q + "war/np/sh1943a.png", (0, 0, 640, 1000)),
     "sh1943_cut": ("local", Q + "war/np/sh1943b.png", None),
+    # Modul 7: Rodman
+    "fgs1956_industries": ("local", Q + "state/verify/fgs12_p45.jpg", (60, 0, 1000, 1000)),
+    "sh1962_crushed": ("local", Q + "rodman/np/sh1962.png", (0, 0, 1000, 380)),
+    "ppp1964_palatka": ("local", Q + "rodman/lbj_p399.png", None),
+    "bc1964_activities": ("ufdc", "UF00075929/00014/00073.jp2", None),
+    "tt1909_dam": ("local", Q + "rodman/np/tt1909.png", (0, 150, 1000, 1000)),
+    "met1912_power": ("local", Q + "rodman/np/met1912b.png", None),
+    "usgs1973_inglis": ("local", Q + "rodman/wri72_p13.png", None),
+    "topo1949_rodman": ("pdf", Q + "state/topo/FL_Rodman_348331_1949_24000_geo.pdf::1", None),
+    "topo1993_rodman": ("pdf", Q + "state/topo/FL_Rodman_348330_1993_24000_geo.pdf::1", None),
+    "fwpca1967_excellent": ("local", Q + "rodman/micro_IA41159433_0119_n7.jpg", (60, 40, 950, 960)),
+    "boynton1975_easement": ("pdf", Q + "rodman/courts/so2d311_412.pdf::3", None),
+    "ca5_1974_ocklawaha": ("pdf", Q + "rodman/courts/f2d489_567.pdf::4", None),
+    "ca5_1974_nixon": ("pdf", Q + "rodman/courts/f2d489_567.pdf::5", None),
+    "hrept1970_lake": ("pdf", SER + "12884_08_00-035-1701-0000.pdf::1", None),
 }
 
 

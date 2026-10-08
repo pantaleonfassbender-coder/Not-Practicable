@@ -53,16 +53,18 @@
    "quelle": "Sanford Herald 1941–1943; Congressional Record, 1 June 1942; Act of 23 July 1942 (56 Stat. 703); House Report 2, 79th Congress (1945).",
    "datei": "war",
    "zk": "Defence · Submarines · Act · Money"
-  }
- ],
- "planned": [
+  },
   {
    "id": "rodman",
    "side": "river",
    "kurz": "7 · Rodman",
-   "warum": "In February 1964 President Johnson broke ground at Palatka. The dam at Rodman flooded thousands of acres of the Ocklawaha valley. Opponents carried the case to the courts and to Washington, and on 19 January 1971 President Nixon ordered the work halted.",
-   "quelle": "Public Papers of the Presidents 1964 and 1971; Florida Board of Conservation reports; congressional reports and hearings; federal court decisions 1971–1974."
-  },
+   "warum": "Johnson's “ribbon of water” in 1964; the western end at Inglis and Lake Rousseau, finished in 1969 and measured by geologists; the Rodman dam of 1968 flooding some 13,000 acres of the Ocklawaha valley and a family's land; the suit of 1969 and Nixon's halt of 19 January 1971, “to prevent potentially serious environmental damages”.",
+   "quelle": "Florida Geological Survey 1956; Public Papers 1964; Board of Conservation 1964; newspapers 1909, 1912, 1962; USGS 1973; FWPCA 1967; court decisions 1974 and 1975; House Report 91-1701.",
+   "datei": "rodman",
+   "zk": "Revival · Palatka · Inglis · Rodman · Halt"
+  }
+ ],
+ "planned": [
   {
    "id": "undoing",
    "side": "land",
@@ -164,13 +166,6 @@
    "quelle": "Treaty with the Seminole at Payne's Landing, 1832 (Statutes at Large, vol. 7); American State Papers, Military Affairs and Indian Affairs."
   },
   {
-   "id": "inglis",
-   "side": "river",
-   "kurz": "The dam at Inglis",
-   "warum": "The power dam on the Withlacoochee near Inglis, which made Lake Rousseau and later lay on the canal's western route, has not yet been documented from a source of its time.",
-   "quelle": "To be found."
-  },
-  {
    "id": "laws1933",
    "side": "land",
    "kurz": "The acts of 1933 and 1935",
@@ -225,6 +220,20 @@
    "kurz": "The pipeline across Florida",
    "warum": "Whether the oil pipeline authorized with the canal in 1942 was built, and where, is not documented in the sources read.",
    "quelle": "Petroleum Administration for War; Corps of Engineers annual reports 1942–45."
+  },
+  {
+   "id": "money1963",
+   "side": "capitol",
+   "kurz": "The money of 1963–1964",
+   "warum": "How the barge canal finally received construction money in 1963–64, after twenty years, has not yet been read in the Congressional Record or the appropriation acts.",
+   "quelle": "Congressional Record 1963; Public Works Appropriation Act 1964."
+  },
+  {
+   "id": "ceq1971",
+   "side": "river",
+   "kurz": "The Council on Environmental Quality's advice (1971)",
+   "warum": "The recommendation of January 1971 on which the President halted the canal is known here only from his statement and the court's summary.",
+   "quelle": "Council on Environmental Quality, January 1971; annual report 1971."
   }
  ]
 }

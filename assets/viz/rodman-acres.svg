@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" role="img" aria-labelledby="ra-t ra-d" font-family="var(--serif)">
+<title id="ra-t">What the water took, in acres</title><desc id="ra-d">Rodman pool, flooded (1968): about 13,000 acres; Ground water lowered, Inglis reach (1971): about 9,600 acres; Hardwoods left standing to drown: about 1,135 acres; One property's land taken for the pool (Boynton): about 540 acres. The Inglis figure is 15 square miles, converted.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">What the water took, in acres</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Areas named in the sources of this module. Each label links to its passage.</text>
+<a href="#/text/rodman/rodman/3"><text x="16" y="92" font-size="13" fill="var(--ink)" text-decoration="underline">Rodman pool, flooded (1968)</text></a>
+<rect x="340" y="74" width="470" height="26" fill="var(--river)"/><text x="816" y="92" font-size="12.5" fill="var(--ink)">13,000</text>
+<a href="#/text/rodman/inglis/5"><text x="16" y="134" font-size="13" fill="var(--ink)" text-decoration="underline">Ground water lowered, Inglis reach (1971)</text></a>
+<rect x="340" y="116" width="347" height="26" fill="var(--water)"/><text x="693" y="134" font-size="12.5" fill="var(--ink)">9,600</text>
+<a href="#/text/rodman/rodman/3"><text x="16" y="176" font-size="13" fill="var(--ink)" text-decoration="underline">Hardwoods left standing to drown</text></a>
+<rect x="340" y="158" width="41" height="26" fill="var(--land)"/><text x="387" y="176" font-size="12.5" fill="var(--ink)">1,135</text>
+<a href="#/text/rodman/rodman/2"><text x="16" y="218" font-size="13" fill="var(--ink)" text-decoration="underline">One property's land taken for the pool (Boynton)</text></a>
+<rect x="340" y="200" width="20" height="26" fill="var(--work)"/><text x="366" y="218" font-size="12.5" fill="var(--ink)">540</text>
+<text x="16" y="260" font-size="12" fill="var(--ink2)">Ground water lowered 0.5 to nearly 15 feet in a 15-square-mile area around the canal below Inglis Lock (USGS, 1973).</text>
+<text x="16" y="278" font-size="12" fill="var(--ink2)">How many families lived or farmed on these acres is not counted in the sources read.</text>
+</svg>

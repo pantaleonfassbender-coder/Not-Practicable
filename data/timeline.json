@@ -102,6 +102,16 @@
    "quelle": "Ocala Evening Star, 21 May 1909, p. 1."
   },
   {
+   "d": "3 June 1909",
+   "side": "river",
+   "titel": "A dam on the Withlacoochee",
+   "text": "A power company builds a dam below Dunnellon to supply the phosphate mines; its lake, later called Lake Rousseau, was planned as the western pool of the barge canal.",
+   "cite": "#/text/rodman/inglis/1",
+   "citeLabel": "Rodman, 1909 [1]",
+   "plate": "tt1909_dam",
+   "quelle": "The Tampa Morning Tribune, 3 June 1909."
+  },
+  {
    "d": "29 December 1911",
    "side": "land",
    "titel": "Twice the rate",
@@ -305,14 +315,49 @@
    "side": "capitol",
    "titel": "Ground broken at Palatka",
    "text": "President Johnson: “This new ribbon of water will enable barges to move across the Florida peninsula a few years from now”.",
-   "quelle": "Public Papers of the Presidents, Lyndon B. Johnson, 1963–64, Book I, no. 198, p. 315."
+   "quelle": "Public Papers of the Presidents, Lyndon B. Johnson, 1963–64, Book I, no. 198, p. 315.",
+   "cite": "#/text/rodman/ground/1",
+   "citeLabel": "Rodman, 1964 [1]",
+   "plate": "ppp1964_palatka"
+  },
+  {
+   "d": "1968",
+   "side": "river",
+   "titel": "The Rodman dam",
+   "text": "The dam on the Ocklawaha is finished; its pool, sixteen miles long, floods some 13,000 acres of the valley.",
+   "cite": "#/text/rodman/rodman/3",
+   "citeLabel": "Rodman, 1968 [3]",
+   "plate": "topo1993_rodman",
+   "quelle": "Canal Authority of Florida v. Callaway, 489 F.2d 567 (1974), p. 570."
+  },
+  {
+   "d": "1969",
+   "side": "survey",
+   "titel": "The western end finished",
+   "text": "The westernmost seven miles of the canal, with Inglis Lock, are completed from the Withlacoochee to the Gulf.",
+   "cite": "#/text/rodman/inglis/4",
+   "citeLabel": "Rodman, 1969 [4]",
+   "plate": "usgs1973_inglis",
+   "quelle": "U.S. Geological Survey, WRI 4-72 (1973)."
+  },
+  {
+   "d": "September 1969",
+   "side": "river",
+   "titel": "The suit",
+   "text": "The Environmental Defense Fund and the Florida Defenders of the Environment sue in Washington to halt the canal.",
+   "cite": "#/text/rodman/halt/1",
+   "citeLabel": "Rodman, 1969 [1]",
+   "quelle": "Canal Authority of Florida v. Callaway, 489 F.2d 567 (1974), p. 570."
   },
   {
    "d": "19 January 1971",
    "side": "river",
    "titel": "The halt",
    "text": "President Nixon orders “a halt to further construction of the Cross Florida Barge Canal to prevent potentially serious environmental damages.” About $50 million of an estimated $180 million has been committed.",
-   "quelle": "Public Papers of the Presidents, Richard Nixon, 1971, no. 20, pp. 43–44."
+   "quelle": "Public Papers of the Presidents, Richard Nixon, 1971, no. 20, pp. 43–44.",
+   "cite": "#/text/rodman/halt/2",
+   "citeLabel": "Rodman, 1971 [2]",
+   "plate": "ca5_1974_nixon"
   },
   {
    "d": "23 May 1977",

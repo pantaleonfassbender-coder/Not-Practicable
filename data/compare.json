@@ -316,6 +316,54 @@
      "wer": "Sanford Herald, 1943"
     }
    ]
+  },
+  {
+   "id": "nature",
+   "titel": "Rivers that run wild, a natural treasure",
+   "frage": "What was the river for?",
+   "note": "In 1964 the rivers “run wild” and the canal makes the resources of nature “useful and beneficial”. In 1971 the same river is “a natural treasure … which would be destroyed”, and the old accounts are faulted for not counting its destruction as a cost.",
+   "voices": [
+    {
+     "text": "rodman",
+     "sec": "ground",
+     "n": [
+      1
+     ],
+     "wer": "Lyndon B. Johnson, 1964"
+    },
+    {
+     "text": "rodman",
+     "sec": "halt",
+     "n": [
+      2
+     ],
+     "wer": "Richard Nixon, 1971"
+    }
+   ]
+  },
+  {
+   "id": "lanerodman",
+   "titel": "The water-lane and the pool",
+   "frage": "What became of Lanier's river?",
+   "note": "In 1875 a lane of “pure delight betwixt hedgerows of oaks and cypresses”; in 1974 a lake sixteen miles long over a forest crushed into the swamp floor, its last hardwoods dying.",
+   "voices": [
+    {
+     "text": "river",
+     "sec": "lanier",
+     "n": [
+      3
+     ],
+     "wer": "Sidney Lanier, 1875"
+    },
+    {
+     "text": "rodman",
+     "sec": "rodman",
+     "n": [
+      3
+     ],
+     "wer": "U.S. Court of Appeals, 1974"
+    }
+   ]
   }
  ]
 }
