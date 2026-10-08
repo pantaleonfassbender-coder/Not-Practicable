@@ -28,8 +28,9 @@
   {
    "id": "debate",
    "titel": "Submarines and oil (June 1942)",
-   "blurb": "With enemy submarines attacking shipping off the coast and gasoline rationed in the East, a barge canal and an oil pipeline across Florida came before the House. A Florida member spoke of the “blood of many hundreds of Americans”; a Californian quoted a Miami paper's “boondoggling bill”. The first vote failed, 85 to 121.",
+   "blurb": "With German submarines sinking tankers off the coast and gasoline rationed in the East, a barge canal and an oil pipeline across Florida came before the House. A Florida member spoke of the “blood of many hundreds of Americans”; a Californian quoted a Miami paper's “boondoggling bill”. The first vote failed, 85 to 121.",
    "plates": [
+    "sh1942_tanker",
     "cr1942_submarines",
     "cr1942_vote"
    ],
@@ -39,7 +40,7 @@
      "pg": "Congressional Record, House, 1 June 1942, p. 4773: a Representative from Florida (his name stands on p. 4772, not in the scan)",
      "titel": "“Submarine tragedies”",
      "orig": "In my first campaign for election to Congress more than 18 years ago, I promised the people of Florida to work for a canal across north Florida connecting up this intracoastal system; … Today, I am about to realize, I hope, the success of this 18 years of constant effort for an improvement which will be of tremendous peacetime economic value, and which at the moment is an absolute war essential. … I am thinking today of the almost daily occurring submarine tragedies on our Atlantic—particularly the lower Atlantic and Gulf areas. The blood of many hundreds of Americans has been spilled in this area by ruthless and savage attacks by enemy submarines. Millions of dollars' worth of cargoes—primarily oil—have been destroyed. Thousands of you who are inclined not to support this bill will bear in mind that these lives of our American people and these war-essential cargoes destroyed are worth far more in the protection of our great Nation than are financial investments.",
-     "note": "The speaker names no figures for the ships and lives lost. The bill, H.R. 6999, joined a barge canal across Florida to an oil pipeline and a deeper Gulf Intracoastal Waterway. The speaker also complains that the Republican members of the committee yielded time only to opponents."
+     "note": "The speaker says “enemy submarines”; they were German. The Sanford Herald had reported on 16 January 1942: “An American tanker has been sunk by a German submarine just 60 miles outside New York harbor” (plate). Modern accounts call the German submarine campaign off the American coast, begun in January 1942, Operation Drumbeat (Paukenschlag). The speaker names no figures for the ships and lives lost. The bill, H.R. 6999, joined a barge canal across Florida to an oil pipeline and a deeper Gulf Intracoastal Waterway. The speaker also complains that the Republican members of the committee yielded time only to opponents."
     },
     {
      "n": 2,

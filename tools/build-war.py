@@ -2,7 +2,7 @@
 plates.json, timeline.json and compare.json.
 
 Sources, each passage read against the page image (log: ../quellen/war/PRUEFUNG.md):
-  Sanford Herald, 6 February 1941, 16 April 1942, 23 February 1943, 2 April 1943, all p. 2
+  Sanford Herald, 16 January 1942, p. 2 (UFDC AA00087662/07123, plate only); Sanford Herald, 6 February 1941, 16 April 1942, 23 February 1943, 2 April 1943, all p. 2
     (UFDC AA00087662/06835, /07196, /07414, /07442);
   Congressional Record, House, 1 June 1942, pp. 4773–4774 (Internet Archive PL77711, leaves n22–n23,
     pages bound into the USDA legislative history of Public Law 77-711);
@@ -43,7 +43,7 @@ DEBATE = [
     u(1, CR + ", p. 4773: a Representative from Florida (his name stands on p. 4772, not in the scan)",
       "In my first campaign for election to Congress more than 18 years ago, I promised the people of Florida to work for a canal across north Florida connecting up this intracoastal system; … Today, I am about to realize, I hope, the success of this 18 years of constant effort for an improvement which will be of tremendous peacetime economic value, and which at the moment is an absolute war essential. … I am thinking today of the almost daily occurring submarine tragedies on our Atlantic—particularly the lower Atlantic and Gulf areas. The blood of many hundreds of Americans has been spilled in this area by ruthless and savage attacks by enemy submarines. Millions of dollars' worth of cargoes—primarily oil—have been destroyed. Thousands of you who are inclined not to support this bill will bear in mind that these lives of our American people and these war-essential cargoes destroyed are worth far more in the protection of our great Nation than are financial investments.",
       "“Submarine tragedies”",
-      "The speaker names no figures for the ships and lives lost. The bill, H.R. 6999, joined a barge canal across Florida to an oil pipeline and a deeper Gulf Intracoastal Waterway. The speaker also complains that the Republican members of the committee yielded time only to opponents."),
+      "The speaker says “enemy submarines”; they were German. The Sanford Herald had reported on 16 January 1942: “An American tanker has been sunk by a German submarine just 60 miles outside New York harbor” (plate). Modern accounts call the German submarine campaign off the American coast, begun in January 1942, Operation Drumbeat (Paukenschlag). The speaker names no figures for the ships and lives lost. The bill, H.R. 6999, joined a barge canal across Florida to an oil pipeline and a deeper Gulf Intracoastal Waterway. The speaker also complains that the Republican members of the committee yielded time only to opponents."),
     u(2, CR + ", p. 4773: Representative Carter of California",
       "Mr. Carter. Mr. Speaker, I call the attention of the House to the fact that this bill was never submitted to the Bureau of the Budget, that it does not have the approval of the War Production Board, that it is brought in here with undue haste under a motion to suspend the rules … Mr. Speaker, this bill has been referred to as a boondoggling bill in an editorial in the Miami Herald in the State of Florida. I do not want this Congress to make itself ridiculous by passing a measure that has been said by somebody to be the beginning of the old Florida ship canal. We must conserve our financial resources to carry on the war and cut out all nonessential expenditures.",
       "“A boondoggling bill”",
@@ -102,8 +102,8 @@ T = {
          "blurb": "In February 1941 Florida's senators brought the ship canal back as “a vital element in our defense”: the Navy would find it hard to protect shipping in the Florida Straits in a war.",
          "plates": ["sh1941_defense"], "viz": "war-reasons", "units": DEFENCE},
         {"id": "debate", "titel": "Submarines and oil (June 1942)",
-         "blurb": "With enemy submarines attacking shipping off the coast and gasoline rationed in the East, a barge canal and an oil pipeline across Florida came before the House. A Florida member spoke of the “blood of many hundreds of Americans”; a Californian quoted a Miami paper's “boondoggling bill”. The first vote failed, 85 to 121.",
-         "plates": ["cr1942_submarines", "cr1942_vote"], "units": DEBATE},
+         "blurb": "With German submarines sinking tankers off the coast and gasoline rationed in the East, a barge canal and an oil pipeline across Florida came before the House. A Florida member spoke of the “blood of many hundreds of Americans”; a Californian quoted a Miami paper's “boondoggling bill”. The first vote failed, 85 to 121.",
+         "plates": ["sh1942_tanker", "cr1942_submarines", "cr1942_vote"], "units": DEBATE},
         {"id": "act", "titel": "Authorized, not built (July 1942)",
          "blurb": "On 23 July 1942 Congress authorized “a high-level lock barge canal” across Florida and $93,000,000. The engineers' report behind it was kept secret until 1945.",
          "plates": ["stat1942_act", "hrept1945_secret"], "units": ACT},
@@ -123,6 +123,9 @@ NEW = [
     {"id": "sh1941_defense", "side": "capitol", "titel": "“Vital to defense”, February 1941",
      "caption": "Senators Andrews and Pepper ask for a sea-level ship canal for $160,000,000.",
      "source": SH + ", 6 February 1941, p. 2; " + NP},
+    {"id": "sh1942_tanker", "side": "capitol", "titel": "“Sunk by a German submarine”, January 1942",
+     "caption": "“An American tanker has been sunk by a German submarine just 60 miles outside New York harbor.”",
+     "source": SH + ", 16 January 1942, p. 2; " + NP},
     {"id": "cr1942_submarines", "side": "capitol", "titel": "“Submarine tragedies”, 1 June 1942",
      "caption": "A Florida member of the House for the barge canal: “The blood of many hundreds of Americans has been spilled in this area by ruthless and savage attacks by enemy submarines.”",
      "source": CR + ", p. 4773, middle column; Internet Archive; public domain."},
@@ -155,7 +158,7 @@ m = next((x for x in M["planned"] if x["id"] == "war"), None) or next(x for x in
 M["planned"] = [x for x in M["planned"] if x["id"] != "war"]
 m.update({"datei": "war", "zk": "Defence · Submarines · Act · Money",
           "kurz": "6 · A canal for the war",
-          "warum": "In 1941 the ship canal was “vital to defense”; in 1942, with submarines attacking shipping and gasoline rationed, it became a barge canal for oil. A first vote failed, 85 to 121; on 23 July 1942 Congress authorized a lock barge canal and $93,000,000, on a report kept secret until 1945. No construction money followed.",
+          "warum": "In 1941 the ship canal was “vital to defense”; in 1942, with German submarines sinking tankers and gasoline rationed, it became a barge canal for oil. A first vote failed, 85 to 121; on 23 July 1942 Congress authorized a lock barge canal and $93,000,000, on a report kept secret until 1945. No construction money followed.",
           "quelle": "Sanford Herald 1941–1943; Congressional Record, 1 June 1942; Act of 23 July 1942 (56 Stat. 703); House Report 2, 79th Congress (1945)."})
 order = ["ridge", "river", "relief", "camp", "aquifer", "war", "rodman", "undoing"]
 M["shipped"] = sorted([x for x in M["shipped"] if x["id"] != "war"] + [m], key=lambda x: order.index(x["id"]))

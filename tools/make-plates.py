@@ -87,6 +87,7 @@ PLATES = {
     "cr1942_vote": ("local", Q + "war/PL77711_n23.jpg", (345, 40, 655, 1000)),
     "stat1942_act": ("pdf", Q + "federal/govinfo/STATUTE-56-Pg703.pdf::1", (40, 60, 990, 640)),
     "hrept1945_secret": ("pdf", SER + "10931_00_00-003-0002-0000.pdf::1", None),
+    "sh1942_tanker": ("local", Q + "war/np/sh1942g.png", (0, 380, 690, 640)),
     "sh1942_duration": ("local", Q + "war/np/sh1942b.png", None),
     "sh1943_sanford": ("local", Q + "war/np/sh1943a.png", (0, 0, 640, 1000)),
     "sh1943_cut": ("local", Q + "war/np/sh1943b.png", None),
