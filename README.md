@@ -23,7 +23,7 @@ With 80 public-domain plates (maps, congressional and court pages, newspaper cut
 
 What is **not carried**, and why, is listed on the Texts page (`data/modules.json`, key `missing`, 25 entries): among them segregation at the camps and wages (not documented in the sources read), the families on the route, the Ocala newspapers of 1935–36, the engineers' reports of 1935 and 1942, the opponents' report of 1970, and Marjorie Carr's oral history of 1989 (not in the public domain).
 
-**Companion game (in preparation):** *Relief and Navigation*.
+**Companion game:** [*Relief and Navigation*](https://leofassb.itch.io/relief-and-navigation), in two roles (the canal authority, 1933–1990; the river's defenders, 1962–1990), sold on itch.io. This apparatus stays free.
 
 ## Files
 

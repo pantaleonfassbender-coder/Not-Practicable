@@ -60,7 +60,7 @@ const OVERVIEW = {
     ["Why was a canal across Florida wanted?", "To spare shipping the passage round the Keys and the Florida Straits, the case from 1826 on; to put men from the relief rolls to work in 1935; to keep barges safe from submarines in 1942; and in 1964 to bring trade and growth to the counties on the route."],
     ["Why was it stopped?", "In 1936 the Senate refused further money, after warnings that a sea-level cut could harm the underground water of central Florida. In 1971 the President halted the barge canal “to prevent potentially serious environmental damages”, with about $50 million of $180 million committed."],
     ["Who paid, who worked, who was asked?", "The six counties of the canal district voted bonds and paid a canal tax for decades. Several thousand men, most of them from the relief rolls, dug the cut south of Ocala in 1935–36. Only property owners could vote on the bonds; the people living on the right of way appear in the record through the words of a land appraiser."],
-    ["Can one retrace it?", "Relief and Navigation, a companion game in preparation, will let you take the place of the canal authority's secretary at Ocala between 1933 and 1990. Every card will point to its passage here."]
+    ["Can one retrace it?", "Relief and Navigation, the companion game, lets you take the place of the canal authority's secretary at Ocala from 1933 to 1990, or of the river's defenders in Gainesville from 1962 to 1990. Every card points to its passage here. The game is sold on itch.io; this apparatus stays free."]
   ],
   none: "The modules are in preparation; the Texts page lists them with their sources.",
   have: "What the apparatus contains", qs: "The questions"
