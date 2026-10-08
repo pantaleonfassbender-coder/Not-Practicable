@@ -1,5 +1,7 @@
 # Not Practicable
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23226295.svg)](https://doi.org/10.5281/zenodo.23226295)
+
 The canal across Florida, 1826–1990: a documentary apparatus in English, built from public-domain sources read against the page images. From the Army survey of 1829, which found a ship channel through the peninsula “not practicable”, to the ship canal begun near Ocala in 1935 with men from the relief rolls, the barge canal authorized for the war in 1942, the Rodman dam and the halt of 1971, and the act of 1990 that ended the project and left a greenway.
 
 It asks who paid, who worked, who was asked, and what was lost: the counties that taxed themselves for thirty-five years after a bond vote open only to property owners who had paid the poll tax; the several thousand men from the relief rolls at Camp Roosevelt, one of whom, John Matthews, is named in the record only in the report of his death; the owners whose land was condemned and never returned; the Ocklawaha valley under the Rodman pool.
@@ -34,7 +36,7 @@ Static site without a build step: `index.html`, `app.js` (hash routes; engine ad
 
 ## Citation
 
-Fassbender, Pantaleon. *Not Practicable: The Canal across Florida, 1826–1990. A Documentary Apparatus.* 2026. Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *Not Practicable: The Canal across Florida, 1826–1990. A Documentary Apparatus.* 2026. https://doi.org/10.5281/zenodo.23226295 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23226296). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Licences
 
