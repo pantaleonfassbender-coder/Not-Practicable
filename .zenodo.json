@@ -1,0 +1,36 @@
+{
+  "upload_type": "dataset",
+  "title": "Not Practicable: The Canal across Florida, 1826–1990. A Documentary Apparatus",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the canal across Florida, from the Army survey of 1829 that found a ship channel through the peninsula &lsquo;not practicable&rsquo; to the act of 1990 that ended the Cross Florida Barge Canal and left a greenway. The canal was argued for again and again, each time for a new reason (shipping, work for the unemployed, war, growth), begun twice, near Ocala in 1935 and at Palatka in 1964, and twice stopped. The apparatus asks who paid, who worked, who was asked, and what was lost.</p><p>Stage 1: eight modules with 132 passages, each read against the page image of a public-domain printing. (1) The ridge, 1826&ndash;1909: the Senate committee and Joseph M. White, Bernard and Poussin's &lsquo;not practicable&rsquo;, Pickell's water for the summit, a railroad instead, Gillmore's fifty million dollars, the canal company of 1883&ndash;84. (2) The water-lane, 1832&ndash;1914: Sidney Lanier on the Ocklawaha and the people who worked the river, the London prospectus of 1877, the engineers' Oklawaha report of 1914. (3) Work for the relief rolls, 1933&ndash;1937: the Ship Canal Authority, Roosevelt's relief allotment, the bond election open only to freeholders who had paid the poll tax, the land appraiser's testimony. (4) Camp Roosevelt, 1935&ndash;1936: the relief workers, the camps before their sanitation, the State Board of Health's count by colour, the death of John Matthews, the stop. (5) The water under Florida, 1934&ndash;1939: the ground-water dispute, the Senate votes of 1936 and 1939, the Board of Engineers against its Chief. (6) A canal for the war, 1941&ndash;1945: German submarines and oil, the act of 23 July 1942. (7) Rodman, 1909&ndash;1974: Johnson's ground-breaking, the western end at Inglis and Lake Rousseau, the Rodman pool, the suit of 1969 and Nixon's halt of 1971. (8) Undoing the canal, 1971&ndash;1990: the county canal tax, the Corps restudy and Carter, the Palatka hearing of 1985 with Marjorie Harris Carr, the owners who could not get their land back, Public Law 101-640.</p><p>Sources: congressional documents, the Congressional Record and hearings, statutes, the public papers of the presidents, reports of the Army engineers, the Geological Survey, the Federal Water Pollution Control Administration and Florida's agencies, court decisions, the Ship Canal Authority's Documentary History (Senate Document 275, 1936), Lanier's Florida (1875), and Florida newspapers (before 1931, or later with no copyright renewal found). With 80 public-domain plates, 10 graphics, 17 comparisons, a timeline of 42 stations linked into the texts, and a list of 25 items examined and not included, with the reasons (among them segregation in the camps and wages, which the sources read do not document).</p><p>Companion game: <em>Relief and Navigation</em> (in preparation).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions CC0 1.0; plates public domain &mdash; see LICENSES.md. Live site: https://not-practicable.netlify.app/</p>",
+  "license": "MIT",
+  "language": "eng",
+  "keywords": [
+    "Cross Florida Barge Canal",
+    "Florida Ship Canal",
+    "Ocklawaha River",
+    "Rodman Dam",
+    "Inglis",
+    "Lake Rousseau",
+    "Camp Roosevelt",
+    "Works Progress Administration",
+    "New Deal",
+    "Floridan aquifer",
+    "Marjorie Harris Carr",
+    "environmental history",
+    "Florida history",
+    "digital humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://not-practicable.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

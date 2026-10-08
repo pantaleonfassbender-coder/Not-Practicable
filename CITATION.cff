@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Not Practicable: The Canal across Florida, 1826–1990. A Documentary Apparatus"
+message: "If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Not-Practicable"
+url: "https://not-practicable.netlify.app/"
+abstract: >-
+  A documentary apparatus for the canal across Florida, from the Army survey
+  of 1829 that found a ship channel through the peninsula "not practicable"
+  to the act of 1990 that ended the Cross Florida Barge Canal and left a
+  greenway. Eight modules with 132 passages, each read against the page image
+  of a public-domain printing: congressional documents, the Congressional
+  Record and hearings, statutes, the public papers of the presidents, reports
+  of the Army engineers, the Geological Survey and Florida's agencies, court
+  decisions, the Ship Canal Authority's own Documentary History (1936), Sidney
+  Lanier's Florida (1875), and Florida newspapers. It asks who paid, who
+  worked, who was asked and what was lost: the bond vote of 1935 open only to
+  property owners who had paid the poll tax, the relief workers at Camp
+  Roosevelt, the land condemned and never returned, the Ocklawaha valley under
+  the Rodman pool, and the western end at Inglis and Lake Rousseau. With 80
+  public-domain plates, 10 graphics, 17 comparisons, a timeline of 42
+  stations, and a list of what is not carried and why. Companion game:
+  Relief and Navigation (in preparation).
+keywords:
+  - Cross Florida Barge Canal
+  - Florida Ship Canal
+  - Ocklawaha River
+  - Rodman Dam
+  - Inglis
+  - Lake Rousseau
+  - Camp Roosevelt
+  - Works Progress Administration
+  - New Deal
+  - Floridan aquifer
+  - Marjorie Harris Carr
+  - environmental history
+  - Florida history
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-07
